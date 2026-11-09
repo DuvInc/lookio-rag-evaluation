@@ -1,0 +1,12 @@
+{
+  "model": "anthropic/claude-haiku-5.5",
+  "reasoning_effort": "none",
+  "max_output_tokens": 600,
+  "system_identity_visible_to_judge": false,
+  "score": {
+    "correct": 1,
+    "partial": 0,
+    "wrong": 0
+  },
+  "prompt_template": "judge-prompt.txt"
+}

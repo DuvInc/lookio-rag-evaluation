@@ -1,0 +1,11 @@
+{
+  "data/questions.jsonl": "c53436406c6f2ce4a60d5ca3ca4c9b1c20fc4b20dc03de4fb164736737230735",
+  "data/answers.jsonl": "e87674b586be1f9f7a1f06497725b86c371b991e8a84ff2ebce00db682be4b14",
+  "data/attempts.jsonl": "603351f21e62d019b1c80722f591072c79ffba9c0a163353d2fa6f8e2925d903",
+  "data/sources.json": "c167cb0da325c549ef9cbe0f82f63c46f86c8263e9fc1146ba15c3cf5841fdc8",
+  "results.json": "d12ab1f9c1d347344ea1ba2cd4a0b4f64e9dd9f8c15960aaba750c98a2e88209",
+  "baseline/config.json": "f3e2ddbb530d538836cf5c5976a36e5b5add22bee18d5975dbdf2fe8fac23c19",
+  "baseline/corpus-manifest.json": "3679bc6446e92013ea1ccc19e2898dca2ac8b697bc393325f8da5ab332d6580c",
+  "grading/config.json": "a54e4f3eb20cd12825871e66e892b1e4b6f2901060738958badddad3c70d75c8",
+  "grading/judge-prompt.txt": "ec794c38214f5399a06e254c1079ccd561205f237080257c879bf0f376366ca9"
+}

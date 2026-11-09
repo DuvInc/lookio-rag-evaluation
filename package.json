@@ -1,0 +1,9 @@
+{
+  "name": "lookio-rag-evaluation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "exports": { ".": "./lib/score.mjs" },
+  "scripts": { "test": "node --test test/*.test.mjs", "report": "node scripts/report.mjs", "figures": "node figures/build.mjs" }
+}

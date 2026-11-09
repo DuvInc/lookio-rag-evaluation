@@ -1,0 +1,2462 @@
+{
+  "arvenne": [
+    {
+      "id": "c2_finance_budget_2025_xlsx",
+      "title": "finance/budget_2025.xlsx",
+      "extracted_text_characters": 1236,
+      "extracted_text_sha256": "86e5058f93112dcb4bc9e1839a38806ab525d35a71c2f87393cb59e4440a0d5b"
+    },
+    {
+      "id": "c2_finance_expense_receipt_hartmann_zurich_jpg",
+      "title": "finance/expense_receipt_hartmann_zurich.jpg",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_finance_investor_update_q3_2025_pptx",
+      "title": "finance/investor_update_q3_2025.pptx",
+      "extracted_text_characters": 911,
+      "extracted_text_sha256": "da5de8bfc33853f9e395cbfab80e78b84763b01a73d052917f2c09fc9d0acf03"
+    },
+    {
+      "id": "c2_hr_cse_compte_rendu_2025_11_13_docx",
+      "title": "hr/cse_compte_rendu_2025-11-13.docx",
+      "extracted_text_characters": 1243,
+      "extracted_text_sha256": "b580c33edd827ef123dfd194ca0262740dc48529168b685ec4a33a24cdba95d6"
+    },
+    {
+      "id": "c2_hr_employee_handbook_v3_2_md",
+      "title": "hr/employee_handbook_v3.2.md",
+      "extracted_text_characters": 2388,
+      "extracted_text_sha256": "e6c3a45fdfa392977ebbc5206e6387976ef7935cabfe6308ad15a7b70e626a54"
+    },
+    {
+      "id": "c2_hr_org_chart_2025_png",
+      "title": "hr/org_chart_2025.png",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_hr_travel_policy_update_2025_09_docx",
+      "title": "hr/travel_policy_update_2025-09.docx",
+      "extracted_text_characters": 963,
+      "extracted_text_sha256": "0c7977a42aa7d95bc101a14de4acc0b08af703df9a8858a3f8b4565b27f89d75"
+    },
+    {
+      "id": "c2_meetings_board_minutes_2025_06_24_md",
+      "title": "meetings/board_minutes_2025-06-24.md",
+      "extracted_text_characters": 1750,
+      "extracted_text_sha256": "267f90c912af18c150e85a557e533df42a90f44a7b48c3f78a699526b919d88e"
+    },
+    {
+      "id": "c2_meetings_board_minutes_2025_09_23_docx",
+      "title": "meetings/board_minutes_2025-09-23.docx",
+      "extracted_text_characters": 1298,
+      "extracted_text_sha256": "ceb93b918ab68f88b7d88a733544824ee1c4e677fc7071db33a872be129fb235"
+    },
+    {
+      "id": "c2_meetings_board_minutes_2025_12_16_txt",
+      "title": "meetings/board_minutes_2025-12-16.txt",
+      "extracted_text_characters": 1461,
+      "extracted_text_sha256": "4b83010cd0ae5c4fb6332be35d784b12088518fbf8333232129a708df16218cc"
+    },
+    {
+      "id": "c2_operations_field_test_notes_barge2_P3_pdf",
+      "title": "operations/field_test_notes_barge2_P3.pdf",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_operations_incident_report_IR_2025_014_docx",
+      "title": "operations/incident_report_IR-2025-014.docx",
+      "extracted_text_characters": 1279,
+      "extracted_text_sha256": "becfe45030051e14acc14c6096494946608e772059bcc8218d6546dbaca3d812"
+    },
+    {
+      "id": "c2_operations_production_batches_2025_xlsx",
+      "title": "operations/production_batches_2025.xlsx",
+      "extracted_text_characters": 9473,
+      "extracted_text_sha256": "41dd4eaa29bc9a9d518c2fb6c41189f10f82395de4ab47a1e007ccabbad84a03"
+    },
+    {
+      "id": "c2_operations_warranty_claims_2025_csv",
+      "title": "operations/warranty_claims_2025.csv",
+      "extracted_text_characters": 10933,
+      "extracted_text_sha256": "27c0386eccffa883a79ebe7947302e8f38e5b2b8a3ea7284b63408d49c26a9a9"
+    },
+    {
+      "id": "c2_operations_whiteboard_q4_priorities_jpg",
+      "title": "operations/whiteboard_q4_priorities.jpg",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_products_arvenne_catalogue_2025_autumn_pdf",
+      "title": "products/arvenne_catalogue_2025_autumn.pdf",
+      "extracted_text_characters": 3253,
+      "extracted_text_sha256": "9b400e7de3b55df9dacc3434c7e01b2c5bdea5493bd0907c641a2870700d3de9"
+    },
+    {
+      "id": "c2_products_press_release_barge2_md",
+      "title": "products/press_release_barge2.md",
+      "extracted_text_characters": 975,
+      "extracted_text_sha256": "7d1b74934973937ee2b7c08ab04c5bf6acab87671e70d63e262769bf3edb80da"
+    },
+    {
+      "id": "c2_sales_README_md",
+      "title": "sales/README.md",
+      "extracted_text_characters": 1841,
+      "extracted_text_sha256": "f84d0af4ea6edd94a0faac1a339985f7be38908bb13417b017b0ef841ec54336"
+    },
+    {
+      "id": "c2_sales_dealers_2025_xlsx",
+      "title": "sales/dealers_2025.xlsx",
+      "extracted_text_characters": 3273,
+      "extracted_text_sha256": "033f5e50feafe111ebb2fe2a09f924b94c3fadfbca9482b0a1fc6517e933185c"
+    },
+    {
+      "id": "c2_sales_orders_2025_csv",
+      "title": "sales/orders_2025.csv",
+      "extracted_text_characters": 183873,
+      "extracted_text_sha256": "9dde5641d060f5e0c151a54ea17e67b822f91739f58fe35283cee9c8db6f5564"
+    },
+    {
+      "id": "c2_suppliers_voltaris_delivery_note_VL_2508_C_pdf",
+      "title": "suppliers/voltaris_delivery_note_VL-2508-C.pdf",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_suppliers_voltaris_email_thread_VL_2508_C_html",
+      "title": "suppliers/voltaris_email_thread_VL-2508-C.html",
+      "extracted_text_characters": 3324,
+      "extracted_text_sha256": "7bbce6db9b931f798390b05937e57d21e4cf8e1f1bffc1d459b00472b7c35f24"
+    },
+    {
+      "id": "c2_suppliers_voltaris_supply_agreement_pdf",
+      "title": "suppliers/voltaris_supply_agreement.pdf",
+      "extracted_text_characters": 4141,
+      "extracted_text_sha256": "3e9ed6d890c498e3a54f6b5c3995e9e39d5d0af8b8a2a023c55fbb10ddd3f4b7"
+    },
+    {
+      "id": "c2_support_customer_letter_leclerc_jpg",
+      "title": "support/customer_letter_leclerc.jpg",
+      "extracted_text_characters": 0,
+      "extracted_text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "c2_support_support_faq_json",
+      "title": "support/support_faq.json",
+      "extracted_text_characters": 2426,
+      "extracted_text_sha256": "31166f16c413dbacdc0376e5405f70d3f1e04f3515789b39e5b47adb0075982a"
+    }
+  ],
+  "databench": [
+    {
+      "id": "db_078_Fires",
+      "title": "Fires dataset (078_Fires)",
+      "extracted_text_characters": 39893,
+      "extracted_text_sha256": "d9b04a40137b9df71a9444e3cb3be076832c1f1d1c5958639b46231102cf2642"
+    },
+    {
+      "id": "db_032_Delicatessen",
+      "title": "Delicatessen dataset (032_Delicatessen)",
+      "extracted_text_characters": 255979,
+      "extracted_text_sha256": "4c0afa142c6bf51b458ca65e7666850523278fbbab2ec2805a98ac4535ce3e25"
+    },
+    {
+      "id": "db_069_Taxonomy",
+      "title": "Taxonomy dataset (069_Taxonomy)",
+      "extracted_text_characters": 47109,
+      "extracted_text_sha256": "14645819719ff02ef6fe59c2bb91405b98e5c6f62322eb8248021427d74b7c13"
+    },
+    {
+      "id": "db_055_German",
+      "title": "German dataset (055_German)",
+      "extracted_text_characters": 166059,
+      "extracted_text_sha256": "f557b068dc46c40bcfe14bb6f72c509683b3dcd1c804f8e2728c2a3a5a2f08f6"
+    },
+    {
+      "id": "db_026_Predicting",
+      "title": "Predicting dataset (026_Predicting)",
+      "extracted_text_characters": 91976,
+      "extracted_text_sha256": "9cce624e70bfe51e77ffcf250fa29e458e2e7deefb18101983f706ba8d867923"
+    },
+    {
+      "id": "db_028_Predict",
+      "title": "Predict dataset (028_Predict)",
+      "extracted_text_characters": 23290,
+      "extracted_text_sha256": "c980e5e01dc1c554a358102b773f34b29599d0051ec5cf5b56ad1c6fcb3a23b0"
+    },
+    {
+      "id": "db_073_Med_Cost",
+      "title": "Med Cost dataset (073_Med_Cost)",
+      "extracted_text_characters": 54351,
+      "extracted_text_sha256": "bf24b412bee5075f277201c613a5e45f2704a9c28bf9fe7e6638b2c05cb4a014"
+    },
+    {
+      "id": "db_015_Food",
+      "title": "Food dataset (015_Food)",
+      "extracted_text_characters": 44125,
+      "extracted_text_sha256": "338019846674d4b6b139b2f8fdbfe9761953b891e0b95974efd1f1459172aca4"
+    },
+    {
+      "id": "db_003_Love",
+      "title": "Love dataset (003_Love)",
+      "extracted_text_characters": 90898,
+      "extracted_text_sha256": "4a0b452be63c827c0e93c9b597532f0a02fc32bab7ec98bddd00f5e7973aa698"
+    },
+    {
+      "id": "db_016_Holiday",
+      "title": "Holiday dataset (016_Holiday)",
+      "extracted_text_characters": 530067,
+      "extracted_text_sha256": "056cb67d1f9b98f24d15a240698e11f45de05534203ccaa5cd107bef42bc3f3d"
+    },
+    {
+      "id": "db_002_Titanic",
+      "title": "Titanic dataset (002_Titanic)",
+      "extracted_text_characters": 48491,
+      "extracted_text_sha256": "e550d26250a843ce9510562c02b92c67f1dbb57bb86c6a8d3d18a629060ed184"
+    },
+    {
+      "id": "db_075_Mortality",
+      "title": "Mortality dataset (075_Mortality)",
+      "extracted_text_characters": 21324,
+      "extracted_text_sha256": "98c3f168f4b5dd92a48cc38a4ab937f3b4da1802fa2157746750755f990e2c0e"
+    },
+    {
+      "id": "db_074_Lift",
+      "title": "Lift dataset (074_Lift)",
+      "extracted_text_characters": 105117,
+      "extracted_text_sha256": "a6c5b4867148b9f0ecf430a0adffd97eea0b270fae6b66aed2552931db550ad5"
+    },
+    {
+      "id": "db_066_IBM_HR",
+      "title": "IBM HR dataset (066_IBM_HR)",
+      "extracted_text_characters": 226503,
+      "extracted_text_sha256": "d11789e1db393cd1d985ca41a0e73a1d405543fb2c0d540a3b4f7d723bca92f7"
+    },
+    {
+      "id": "db_027_Supermarket",
+      "title": "Supermarket dataset (027_Supermarket)",
+      "extracted_text_characters": 147176,
+      "extracted_text_sha256": "af4d8ccfdbd2980e5af667d96f5be1eebdb7570324ac1f93c1863af96f061591"
+    },
+    {
+      "id": "db_051_Pokemon",
+      "title": "Pokemon dataset (051_Pokemon)",
+      "extracted_text_characters": 59652,
+      "extracted_text_sha256": "9037ad07469d22306439f31db98a4845520cb83598eb92796d35705b6988e505"
+    },
+    {
+      "id": "db_072_Admissions",
+      "title": "Admissions dataset (072_Admissions)",
+      "extracted_text_characters": 16803,
+      "extracted_text_sha256": "b32ac047d5f219c74fe28ff1d1da25392acade9f66e0fe956752d5f6c27acf41"
+    },
+    {
+      "id": "db_012_Heart",
+      "title": "Heart dataset (012_Heart)",
+      "extracted_text_characters": 37061,
+      "extracted_text_sha256": "b242157e40d28f848ccc7c62867d72f0e2908b3b7cc92e01a2ad757034370af8"
+    },
+    {
+      "id": "db_034_World",
+      "title": "World dataset (034_World)",
+      "extracted_text_characters": 38087,
+      "extracted_text_sha256": "c37a43ad092713f999c34e14af6f01f2d58305fb7343b113c7e55410dfdbe6ef"
+    },
+    {
+      "id": "db_077_Gestational",
+      "title": "Gestational dataset (077_Gestational)",
+      "extracted_text_characters": 21333,
+      "extracted_text_sha256": "a56a4941ba9032f39677aae679c7b60e0bd8db8e258ca0ac80c93e64d4fd3417"
+    },
+    {
+      "id": "db_042_Predict",
+      "title": "Predict dataset (042_Predict)",
+      "extracted_text_characters": 41983,
+      "extracted_text_sha256": "659f3984643c2def53ba5e49f551c6ce3657039f9c25306cacb8f43b818a5190"
+    }
+  ],
+  "hybridqa": [
+    {
+      "id": "hq_127th_Ohio_General_Assembly_1",
+      "title": "127th Ohio General Assembly (table)",
+      "extracted_text_characters": 1078,
+      "extracted_text_sha256": "2bf8962a923fe13dc650773174a36db9070d94fb97b62bfb78fee611e7f8afb9"
+    },
+    {
+      "id": "hq_127th_Ohio_General_Assembly_1_pages",
+      "title": "127th Ohio General Assembly (linked pages)",
+      "extracted_text_characters": 16070,
+      "extracted_text_sha256": "38bbe254da181f585517f73c73b0e5dc4d4797da8c0c12713cc7e5d8221dd5d4"
+    },
+    {
+      "id": "hq_129th_Ohio_General_Assembly_0",
+      "title": "129th Ohio General Assembly (table)",
+      "extracted_text_characters": 1078,
+      "extracted_text_sha256": "9aaed44c48710913998c17c5dfc4e5dec0b652adeef666456edf60669120e275"
+    },
+    {
+      "id": "hq_129th_Ohio_General_Assembly_0_pages",
+      "title": "129th Ohio General Assembly (linked pages)",
+      "extracted_text_characters": 30368,
+      "extracted_text_sha256": "b786360b40cfb9cc00c420f3f05deae004a89b870801991d496c917b11acd72f"
+    },
+    {
+      "id": "hq_1952_British_Grand_Prix_0",
+      "title": "1952 British Grand Prix (table)",
+      "extracted_text_characters": 867,
+      "extracted_text_sha256": "864b75df8c6fa2ab7664d6126c95a876fb478dec20c2b678fa35022edf102dc4"
+    },
+    {
+      "id": "hq_1952_British_Grand_Prix_0_pages",
+      "title": "1952 British Grand Prix (linked pages)",
+      "extracted_text_characters": 22237,
+      "extracted_text_sha256": "88b8b6bd0921926249bbb32c9579fb6a49964020a5db7a9d66f16366b7f1e30e"
+    },
+    {
+      "id": "hq_1998_Australian_Grand_Prix_0",
+      "title": "1998 Australian Grand Prix (table)",
+      "extracted_text_characters": 1062,
+      "extracted_text_sha256": "4daf6c7e93516cc3ff4794153472bffad53416b52eb7d36aca766625dc043d82"
+    },
+    {
+      "id": "hq_1998_Australian_Grand_Prix_0_pages",
+      "title": "1998 Australian Grand Prix (linked pages)",
+      "extracted_text_characters": 40939,
+      "extracted_text_sha256": "1a2ab0ed918141a0c77c4a7d7cb0576ee6ef6fb68e961f1dcd2f40ee723ad3a5"
+    },
+    {
+      "id": "hq_1998_British_Grand_Prix_0",
+      "title": "1998 British Grand Prix (table)",
+      "extracted_text_characters": 1072,
+      "extracted_text_sha256": "8441f80a9db63f83b3a52bc24d854e985caf2f14ae3df5f777cf611d92d9158e"
+    },
+    {
+      "id": "hq_1998_British_Grand_Prix_0_pages",
+      "title": "1998 British Grand Prix (linked pages)",
+      "extracted_text_characters": 41927,
+      "extracted_text_sha256": "104a8d2b03a1061ff88aa14e6d01451e53da5cc844d1496359b9b1a959694cfb"
+    },
+    {
+      "id": "hq_2001_French_Grand_Prix_0",
+      "title": "2001 French Grand Prix (table)",
+      "extracted_text_characters": 1083,
+      "extracted_text_sha256": "1047e1ef3241267c97d136977f3db6bf47a6dff6ec7b9d55cf5d0c36391d2795"
+    },
+    {
+      "id": "hq_2001_French_Grand_Prix_0_pages",
+      "title": "2001 French Grand Prix (linked pages)",
+      "extracted_text_characters": 45184,
+      "extracted_text_sha256": "449571cded1b5161805e1bb2563015362e9f8fb84e65ad0c5da8da55908ff33f"
+    },
+    {
+      "id": "hq_2001_XFL_Draft_0",
+      "title": "2001 XFL Draft (table)",
+      "extracted_text_characters": 1100,
+      "extracted_text_sha256": "5ccde609cd26a61a0addb54e73c98661b67582b4a3ce821784ab296f7df6e8d9"
+    },
+    {
+      "id": "hq_2001_XFL_Draft_0_pages",
+      "title": "2001 XFL Draft (linked pages)",
+      "extracted_text_characters": 38295,
+      "extracted_text_sha256": "8d0237bd3c6d0cf3453b5a2b3f276d1b9227d8ed2001709c242b43166d4f98c5"
+    },
+    {
+      "id": "hq_2004_Brazilian_Grand_Prix_0",
+      "title": "2004 Brazilian Grand Prix (table)",
+      "extracted_text_characters": 1042,
+      "extracted_text_sha256": "c2e0edc07b90130d73df7c4816164818e7569ad8b8c775894b0ba856fe550424"
+    },
+    {
+      "id": "hq_2004_Brazilian_Grand_Prix_0_pages",
+      "title": "2004 Brazilian Grand Prix (linked pages)",
+      "extracted_text_characters": 47194,
+      "extracted_text_sha256": "371207868661a1a78f24e1571dbc535fbbbb3c119bdc758f21abf82f6ca1ed6f"
+    },
+    {
+      "id": "hq_2004_Canadian_Grand_Prix_0",
+      "title": "2004 Canadian Grand Prix (table)",
+      "extracted_text_characters": 1041,
+      "extracted_text_sha256": "ff270a776238d933196a120e82c966c76a1da6511dbfafe15bccb7ae699053e7"
+    },
+    {
+      "id": "hq_2004_Canadian_Grand_Prix_0_pages",
+      "title": "2004 Canadian Grand Prix (linked pages)",
+      "extracted_text_characters": 45732,
+      "extracted_text_sha256": "638a141d3597d94a39f212334fa851b3308858658f902d5afde60fd3f4b25a1f"
+    },
+    {
+      "id": "hq_2004_Chinese_Grand_Prix_1",
+      "title": "2004 Chinese Grand Prix (table)",
+      "extracted_text_characters": 1042,
+      "extracted_text_sha256": "1dac1dea9a973aa679f8b6740e24df023a88fcdcb7d50e3699815a1ee8501842"
+    },
+    {
+      "id": "hq_2004_Chinese_Grand_Prix_1_pages",
+      "title": "2004 Chinese Grand Prix (linked pages)",
+      "extracted_text_characters": 46213,
+      "extracted_text_sha256": "165729ec998afad94d0ca8ba2d81ed2e2f78306666ab517d47b4f603f35e647a"
+    },
+    {
+      "id": "hq_2004_San_Marino_Grand_Prix_0",
+      "title": "2004 San Marino Grand Prix (table)",
+      "extracted_text_characters": 1047,
+      "extracted_text_sha256": "256b8a72a9c1c52347b9ba4fa6e30ac71ff0a9ac216b7c58711f9e2d2ee36672"
+    },
+    {
+      "id": "hq_2004_San_Marino_Grand_Prix_0_pages",
+      "title": "2004 San Marino Grand Prix (linked pages)",
+      "extracted_text_characters": 45708,
+      "extracted_text_sha256": "4974e962a8c68238b562881b230ff4bde397a4b7008fbd2ba73996dbfe799b64"
+    },
+    {
+      "id": "hq_2005_Japanese_Grand_Prix_0",
+      "title": "2005 Japanese Grand Prix (table)",
+      "extracted_text_characters": 1040,
+      "extracted_text_sha256": "34517d25cd3038e013ce8ac18dea518d99a844784103122fa3a5f139f0fea4a6"
+    },
+    {
+      "id": "hq_2005_Japanese_Grand_Prix_0_pages",
+      "title": "2005 Japanese Grand Prix (linked pages)",
+      "extracted_text_characters": 49049,
+      "extracted_text_sha256": "ac6d6d5ef8bd75fa1a098ce1b1be408af56f670145ad1f7f09de247079814dfb"
+    },
+    {
+      "id": "hq_2005_in_video_gaming_1",
+      "title": "2005 in video gaming (table)",
+      "extracted_text_characters": 1657,
+      "extracted_text_sha256": "767d63bcfdc507ae76bfcda20a9cefaf03785dbf111055347825dab6b3b81904"
+    },
+    {
+      "id": "hq_2005_in_video_gaming_1_pages",
+      "title": "2005 in video gaming (linked pages)",
+      "extracted_text_characters": 50150,
+      "extracted_text_sha256": "84cefd990d9e84ae0b070e2aabdcb30f4208cef3df1442fb04208e6e9b7b47cc"
+    },
+    {
+      "id": "hq_2009_AFL_Draft_2",
+      "title": "2009 AFL Draft (table)",
+      "extracted_text_characters": 1062,
+      "extracted_text_sha256": "838ead9971c1e57b193bb8d34850556b109533a77f839368eb400e4da1e06f32"
+    },
+    {
+      "id": "hq_2009_AFL_Draft_2_pages",
+      "title": "2009 AFL Draft (linked pages)",
+      "extracted_text_characters": 45514,
+      "extracted_text_sha256": "3a571d93bae501da79e1e8910840dcf42f1e128fbe93ce2b9ac6c069cf3842d4"
+    },
+    {
+      "id": "hq_2010_Masters_of_Formula_3_0",
+      "title": "2010 Masters of Formula 3 (table)",
+      "extracted_text_characters": 1052,
+      "extracted_text_sha256": "d3abd61c8c8884271f92cecb961381a6bcd61274df969bbfe17de9692afa97cf"
+    },
+    {
+      "id": "hq_2010_Masters_of_Formula_3_0_pages",
+      "title": "2010 Masters of Formula 3 (linked pages)",
+      "extracted_text_characters": 13303,
+      "extracted_text_sha256": "fd72cd04de37fdaa3ff4a758abc00fddc17079cd93fd4bb8fa567cc8ddb4e473"
+    },
+    {
+      "id": "hq_2011_NASCAR_Camping_World_Truck_Series_0",
+      "title": "2011 NASCAR Camping World Truck Series (table)",
+      "extracted_text_characters": 1480,
+      "extracted_text_sha256": "e11e21514a656966f6217e819a0b82422b906398cb5f2251aaa840da1813cca0"
+    },
+    {
+      "id": "hq_2011_NASCAR_Camping_World_Truck_Series_0_pages",
+      "title": "2011 NASCAR Camping World Truck Series (linked pages)",
+      "extracted_text_characters": 25904,
+      "extracted_text_sha256": "edfeceab8e698e665f20bc8fbeefcba921851e3b401591ad3b4ecaec59d502e1"
+    },
+    {
+      "id": "hq_2012_NASCAR_Camping_World_Truck_Series_0",
+      "title": "2012 NASCAR Camping World Truck Series (table)",
+      "extracted_text_characters": 1555,
+      "extracted_text_sha256": "4d41f30fcf5700454770518ea0329d4c8c60ce7949d57ab733f7aca1bbb96114"
+    },
+    {
+      "id": "hq_2012_NASCAR_Camping_World_Truck_Series_0_pages",
+      "title": "2012 NASCAR Camping World Truck Series (linked pages)",
+      "extracted_text_characters": 26903,
+      "extracted_text_sha256": "4e01917d34bbe109da467240bdff0c81e3d8cd974cedb22c17f0d739529c34b3"
+    },
+    {
+      "id": "hq_2013_AFL_Draft_1",
+      "title": "2013 AFL Draft (table)",
+      "extracted_text_characters": 1102,
+      "extracted_text_sha256": "c54b0401cf3ec72c161d93ed7f7d6f82837ab849c7b09cd4b4ad7a162a107322"
+    },
+    {
+      "id": "hq_2013_AFL_Draft_1_pages",
+      "title": "2013 AFL Draft (linked pages)",
+      "extracted_text_characters": 46424,
+      "extracted_text_sha256": "22964aead9d5ea2ac64deb3b42496048a897b4cbfb613c66eec49a60ec4c8b35"
+    },
+    {
+      "id": "hq_2013_New_York_Red_Bulls_season_1",
+      "title": "2013 New York Red Bulls season (table)",
+      "extracted_text_characters": 1514,
+      "extracted_text_sha256": "bb4e074e4fbee6f86cc6fc4361723ed092dcb61b94bd26e05a0b20c2a143940a"
+    },
+    {
+      "id": "hq_2013_New_York_Red_Bulls_season_1_pages",
+      "title": "2013 New York Red Bulls season (linked pages)",
+      "extracted_text_characters": 25145,
+      "extracted_text_sha256": "58bb609d637a10b293c4446190c3aed8e70d736836fd884fe8767f22852856f6"
+    },
+    {
+      "id": "hq_ACC_Men's_Soccer_Tournament_0",
+      "title": "ACC Men's Soccer Tournament (table)",
+      "extracted_text_characters": 2105,
+      "extracted_text_sha256": "a0be4438531d095eb9c809fdb871e74a99cb7f6eba1ac4766078081c1773c0fd"
+    },
+    {
+      "id": "hq_ACC_Men's_Soccer_Tournament_0_pages",
+      "title": "ACC Men's Soccer Tournament (linked pages)",
+      "extracted_text_characters": 31634,
+      "extracted_text_sha256": "dbf0a0f7e25c32b67e6e616037afb15d04bb5806dc303c07cafa379119a8e598"
+    },
+    {
+      "id": "hq_America_East_Conference_11",
+      "title": "America East Conference (table)",
+      "extracted_text_characters": 1969,
+      "extracted_text_sha256": "402c12c9fbe0e6cceb466690e5c353ebae49d36c7153254b5f234a78a89bed28"
+    },
+    {
+      "id": "hq_America_East_Conference_11_pages",
+      "title": "America East Conference (linked pages)",
+      "extracted_text_characters": 43087,
+      "extracted_text_sha256": "cedecc565f2e259873c0da14a98e5e1853dd5b40341a1fa73f90ad75dce6688e"
+    },
+    {
+      "id": "hq_American_Horse_of_the_Year_1",
+      "title": "American Horse of the Year (table)",
+      "extracted_text_characters": 1098,
+      "extracted_text_sha256": "96e82cff56730c7d58dd06a19a2b433449cca38cee443093ad4b4adbff158097"
+    },
+    {
+      "id": "hq_American_Horse_of_the_Year_1_pages",
+      "title": "American Horse of the Year (linked pages)",
+      "extracted_text_characters": 25408,
+      "extracted_text_sha256": "4af36441a09ff55359ae0623d6febb82be31e97afe37ab10d5b28a56e15351b9"
+    },
+    {
+      "id": "hq_Bela_Shende_0",
+      "title": "Bela Shende (table)",
+      "extracted_text_characters": 1628,
+      "extracted_text_sha256": "ecfec797c4a7b59530b05cdd7038ac11a2b908470dcd51ffd08d1a99dbd34d18"
+    },
+    {
+      "id": "hq_Bela_Shende_0_pages",
+      "title": "Bela Shende (linked pages)",
+      "extracted_text_characters": 39740,
+      "extracted_text_sha256": "8fd5f328bd457293f5139e1ea4056deca15d96a72774b449d8a55fe3936d43c4"
+    },
+    {
+      "id": "hq_Big_Brother_11_(UK)_0",
+      "title": "Big Brother 11 (UK) (table)",
+      "extracted_text_characters": 891,
+      "extracted_text_sha256": "6cb6e9b47a040bc8cab6c6f9469f4c08d1af136b573a613646f4e07b8b0234c9"
+    },
+    {
+      "id": "hq_Big_Brother_11_(UK)_0_pages",
+      "title": "Big Brother 11 (UK) (linked pages)",
+      "extracted_text_characters": 33848,
+      "extracted_text_sha256": "6b073eda8ec1fa8d44985c4636d06b4517b1f88d065f711657a89351fb9d300b"
+    },
+    {
+      "id": "hq_British_Junior_Open_Squash_1",
+      "title": "British Junior Open Squash (table)",
+      "extracted_text_characters": 1809,
+      "extracted_text_sha256": "451f979193ea51e433c9c93ff490dd90cc8e6f64b3d7ab3a0563703f87601fbf"
+    },
+    {
+      "id": "hq_British_Junior_Open_Squash_1_pages",
+      "title": "British Junior Open Squash (linked pages)",
+      "extracted_text_characters": 15291,
+      "extracted_text_sha256": "bbbeb496121cb04bf34b5e26a427cbe518f65b0d99c17ff763683f40399ae4ae"
+    },
+    {
+      "id": "hq_Chief_of_Defence_(Norway)_0",
+      "title": "Chief of Defence (Norway) (table)",
+      "extracted_text_characters": 2540,
+      "extracted_text_sha256": "1e4d1f75c4dd0bd83d33634590c60b6452ea6dcbcf07738e8d122abd3e7ace6b"
+    },
+    {
+      "id": "hq_Chief_of_Defence_(Norway)_0_pages",
+      "title": "Chief of Defence (Norway) (linked pages)",
+      "extracted_text_characters": 11090,
+      "extracted_text_sha256": "e768e905114d2d25f23a97a465d0cb17fe52dc98721dccd5e9afb7897603ae58"
+    },
+    {
+      "id": "hq_Colonial_Athletic_Association_8",
+      "title": "Colonial Athletic Association (table)",
+      "extracted_text_characters": 2114,
+      "extracted_text_sha256": "369306f3de60364532169990752d6203c7a64e62f220c725d0d679ade03ba56e"
+    },
+    {
+      "id": "hq_Colonial_Athletic_Association_8_pages",
+      "title": "Colonial Athletic Association (linked pages)",
+      "extracted_text_characters": 25850,
+      "extracted_text_sha256": "791c2f1e127da4d5e2c45d83b5f63fbda9d1246e9d0bd306f87d49976a9f5b01"
+    },
+    {
+      "id": "hq_Deloitte_Football_Money_League_2_pages",
+      "title": "Deloitte Football Money League (linked pages)",
+      "extracted_text_characters": 47733,
+      "extracted_text_sha256": "d433ff1936cea9fde5885c3b108c3fe5e905ef63cfa7c685ec304ebf0e118d21"
+    },
+    {
+      "id": "hq_FAI_Cup_0",
+      "title": "FAI Cup (table)",
+      "extracted_text_characters": 1580,
+      "extracted_text_sha256": "8ce67b9acf57e3b9d8ef592b2c2b5d50c09e08e93f9ce5c329f9a6cb1dcf2992"
+    },
+    {
+      "id": "hq_FAI_Cup_0_pages",
+      "title": "FAI Cup (linked pages)",
+      "extracted_text_characters": 22123,
+      "extracted_text_sha256": "105fe198a03093dcd3ce4743aa1ef0f0b0fc9502744535e991946888a5ed76db"
+    },
+    {
+      "id": "hq_Fame_Academy_discography_0",
+      "title": "Fame Academy discography (table)",
+      "extracted_text_characters": 1183,
+      "extracted_text_sha256": "d162d76a3e3539208b1d47eb61931a4642e7961e9c2866c23ef274741de91dee"
+    },
+    {
+      "id": "hq_Fame_Academy_discography_0_pages",
+      "title": "Fame Academy discography (linked pages)",
+      "extracted_text_characters": 13731,
+      "extracted_text_sha256": "dca4b7955f95328e74f2f6e4a09b30f5468043c8772dbdb3266b8f6831ef40e6"
+    },
+    {
+      "id": "hq_Fatal_dog_attacks_in_the_United_States_6",
+      "title": "Fatal dog attacks in the United States (table)",
+      "extracted_text_characters": 9514,
+      "extracted_text_sha256": "83286c4ef7b81d2049c993046862d2071dc87b3d4ffc71db1bad14c3abbe14b3"
+    },
+    {
+      "id": "hq_Fatal_dog_attacks_in_the_United_States_6_pages",
+      "title": "Fatal dog attacks in the United States (linked pages)",
+      "extracted_text_characters": 40873,
+      "extracted_text_sha256": "b43a36d7ca5fe45677ee8bc65b1a7eb2100d8bc503a1b8569d017cd5924028bb"
+    },
+    {
+      "id": "hq_Figure_skating_at_the_1998_Winter_Olympics_0",
+      "title": "Figure skating at the 1998 Winter Olympics (table)",
+      "extracted_text_characters": 752,
+      "extracted_text_sha256": "014ca115cbf06517755cf9233229de61aeca45967f721fcfe769af50b6ff12c2"
+    },
+    {
+      "id": "hq_Figure_skating_at_the_1998_Winter_Olympics_0_pages",
+      "title": "Figure skating at the 1998 Winter Olympics (linked pages)",
+      "extracted_text_characters": 12015,
+      "extracted_text_sha256": "e2588c2468cbc712bcf03006bf66a7a55825ef927bbf1f56c0d131a7da889535"
+    },
+    {
+      "id": "hq_Goalkeeper_(association_football)_0",
+      "title": "Goalkeeper (association football) (table)",
+      "extracted_text_characters": 1077,
+      "extracted_text_sha256": "ec6fce3fcf9f38061de186165609b52813e40de2813bbc40f6f8d81e2493f1c9"
+    },
+    {
+      "id": "hq_Goalkeeper_(association_football)_0_pages",
+      "title": "Goalkeeper (association football) (linked pages)",
+      "extracted_text_characters": 66760,
+      "extracted_text_sha256": "541ea3f32a1366d5737dd7c23318506465c76fc4cd659e3d6e16c2df5f7d74af"
+    },
+    {
+      "id": "hq_History_of_rugby_union_matches_between_the_British_and_Irish_Lions_and_other_countries_0",
+      "title": "History of rugby union matches between the British and Irish Lions and other countries (table)",
+      "extracted_text_characters": 1385,
+      "extracted_text_sha256": "f91accb4ebdfacc16fac22ff959d303bbb3929f2cd05556935b6c2a30aab8336"
+    },
+    {
+      "id": "hq_History_of_rugby_union_matches_between_the_British_and_Irish_Lions_and_other_countries_0_pages",
+      "title": "History of rugby union matches between the British and Irish Lions and other countries (linked pages)",
+      "extracted_text_characters": 22322,
+      "extracted_text_sha256": "20e7a361cc266a946f8602e70c28da1c5921fa635f49d4747d7de3099e771bfe"
+    },
+    {
+      "id": "hq_Huskies_of_Honor_1",
+      "title": "Huskies of Honor (table)",
+      "extracted_text_characters": 1750,
+      "extracted_text_sha256": "bacacf97bffb49e25d03d7d0f17848d471669e4a8ad8ce7fe74d959c820d36e4"
+    },
+    {
+      "id": "hq_Huskies_of_Honor_1_pages",
+      "title": "Huskies of Honor (linked pages)",
+      "extracted_text_characters": 35423,
+      "extracted_text_sha256": "4c2b6b01935f66e0e81d6e00041c27e247ed80555fb559e154857402420f1f36"
+    },
+    {
+      "id": "hq_International_prize_list_of_Diplomacy_0",
+      "title": "International prize list of Diplomacy (table)",
+      "extracted_text_characters": 1430,
+      "extracted_text_sha256": "b62956f24527c7455f0ec1cf3738a39434b8ae9cb67afea16f734b224e72604f"
+    },
+    {
+      "id": "hq_International_prize_list_of_Diplomacy_0_pages",
+      "title": "International prize list of Diplomacy (linked pages)",
+      "extracted_text_characters": 44209,
+      "extracted_text_sha256": "b7520d6d71e3e854898668d114d470583b5e6c6bda4ea54b1b2be885f521d8f1"
+    },
+    {
+      "id": "hq_Lebanese_people_0",
+      "title": "Lebanese people (table)",
+      "extracted_text_characters": 1860,
+      "extracted_text_sha256": "aa307aadb36486ee9554dc8ab125861dcbb64af30044de2f8e0bf4c98059288b"
+    },
+    {
+      "id": "hq_Lebanese_people_0_pages",
+      "title": "Lebanese people (linked pages)",
+      "extracted_text_characters": 59810,
+      "extracted_text_sha256": "b94869b1093874e926a289323cbf4a9ef57a893885e8847988df568dd6970c31"
+    },
+    {
+      "id": "hq_List_of_British_racecourses_2",
+      "title": "List of British racecourses (table)",
+      "extracted_text_characters": 2795,
+      "extracted_text_sha256": "4e9341fa282c9bca216f909df1c479789072615964723eabeacd411fa659cdbb"
+    },
+    {
+      "id": "hq_List_of_British_racecourses_2_pages",
+      "title": "List of British racecourses (linked pages)",
+      "extracted_text_characters": 29027,
+      "extracted_text_sha256": "b70ebe13b196d54e899995414bdaebbe927f2f3e673d5572c8400aa0b1d75658"
+    },
+    {
+      "id": "hq_List_of_Cascade_volcanoes_2",
+      "title": "List of Cascade volcanoes (table)",
+      "extracted_text_characters": 2364,
+      "extracted_text_sha256": "bf4728f620600447e63f0a06eb200bf60d32e69a445f1ba86bcb30d612916fb3"
+    },
+    {
+      "id": "hq_List_of_Cascade_volcanoes_2_pages",
+      "title": "List of Cascade volcanoes (linked pages)",
+      "extracted_text_characters": 36387,
+      "extracted_text_sha256": "a15a66e4062cf1c94cba8dc347b7d7abdfde0b7d271dee070df9f3d04526e3aa"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_1",
+      "title": "List of Games for Windows titles (table)",
+      "extracted_text_characters": 1467,
+      "extracted_text_sha256": "9e76a4338d2635016c95f35726756626467ed2f11b128b1f5e1227b1e26fd75f"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_1_pages",
+      "title": "List of Games for Windows titles (linked pages)",
+      "extracted_text_characters": 48236,
+      "extracted_text_sha256": "9296e165d007e2169b6f30129bacdf09fc2392cee91b99a97104bb1d7eda38b6"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_4_pages",
+      "title": "List of Games for Windows titles (linked pages)",
+      "extracted_text_characters": 52769,
+      "extracted_text_sha256": "fcc32e43e57a54011af0e76244e517256fda540759a2abed751fdcce7c9b7dfc"
+    },
+    {
+      "id": "hq_List_of_Missouri_Valley_Conference_Men's_Basketball_Tournament_Finals_broadcasters_0",
+      "title": "List of Missouri Valley Conference Men's Basketball Tournament Finals broadcasters (table)",
+      "extracted_text_characters": 2084,
+      "extracted_text_sha256": "5cc81a971cfea035a94538991ec54bafb694853e33318d0677372e27d0fd5b5e"
+    },
+    {
+      "id": "hq_List_of_Missouri_Valley_Conference_Men's_Basketball_Tournament_Finals_broadcasters_0_pages",
+      "title": "List of Missouri Valley Conference Men's Basketball Tournament Finals broadcasters (linked pages)",
+      "extracted_text_characters": 41299,
+      "extracted_text_sha256": "22b193b6ec3cec88837e1f781dd44eb95ac5f7d82d207a7b59c184f086d2058c"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_attendance_figures_0",
+      "title": "List of National Football League attendance figures (table)",
+      "extracted_text_characters": 1400,
+      "extracted_text_sha256": "1fbb470c5e6b8aed44782dfcd36ce71ade986035577a1b046fe7bc8aa2af871f"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_attendance_figures_0_pages",
+      "title": "List of National Football League attendance figures (linked pages)",
+      "extracted_text_characters": 61500,
+      "extracted_text_sha256": "e3ea376354370eb6074de1052e845aca6223e9d8a13174b63dee5b9c6fc815a0"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_attendance_figures_2",
+      "title": "List of National Football League attendance figures (table)",
+      "extracted_text_characters": 1353,
+      "extracted_text_sha256": "26e474c7ac4c5fecd581855ebb85d0c0e235d7415e907493a7b9208b2826e40e"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_attendance_figures_2_pages",
+      "title": "List of National Football League attendance figures (linked pages)",
+      "extracted_text_characters": 57572,
+      "extracted_text_sha256": "541a16bb6baa8b454ea098ae42c54ce186bdb36d17e600806a495a6dd5b5dd73"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Alabama_0",
+      "title": "List of National Historic Landmarks in Alabama (table)",
+      "extracted_text_characters": 9686,
+      "extracted_text_sha256": "f717c1293e2985582327d354f0607dd1716e7a12875c2ad7136c18114391838c"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Alabama_0_pages",
+      "title": "List of National Historic Landmarks in Alabama (linked pages)",
+      "extracted_text_characters": 130354,
+      "extracted_text_sha256": "002cad1fbfcc94cfe6db30073405ccd322439f483d4d53d9fb748db3dcc16224"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Hawaii_0",
+      "title": "List of National Historic Landmarks in Hawaii (table)",
+      "extracted_text_characters": 5985,
+      "extracted_text_sha256": "8426e2422adc5635e9b3d9b5a10c148f2fff05e6f2982331534c679b05f02d43"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Hawaii_0_pages",
+      "title": "List of National Historic Landmarks in Hawaii (linked pages)",
+      "extracted_text_characters": 81110,
+      "extracted_text_sha256": "b8833b8f4efc7d8b18e619860b2c4540e34f7a2d9b158f0c16689eeb6682a968"
+    },
+    {
+      "id": "hq_List_of_National_Natural_Landmarks_in_California_0",
+      "title": "List of National Natural Landmarks in California (table)",
+      "extracted_text_characters": 5019,
+      "extracted_text_sha256": "1ee64831571b9fbd642dce16998f7de75b2d351e641dd3ca1ef5c7f203c6dc5a"
+    },
+    {
+      "id": "hq_List_of_National_Natural_Landmarks_in_California_0_pages",
+      "title": "List of National Natural Landmarks in California (linked pages)",
+      "extracted_text_characters": 58876,
+      "extracted_text_sha256": "3b357cc714b1d69236d3858234d58e7642cba3fcf44a1e817382f8f474608e23"
+    },
+    {
+      "id": "hq_List_of_National_Trust_properties_in_Somerset_0",
+      "title": "List of National Trust properties in Somerset (table)",
+      "extracted_text_characters": 15412,
+      "extracted_text_sha256": "29aa872f22eb3b5588700c4420f7d127a6e919b5c345ff20f745e654e4de97e5"
+    },
+    {
+      "id": "hq_List_of_National_Trust_properties_in_Somerset_0_pages",
+      "title": "List of National Trust properties in Somerset (linked pages)",
+      "extracted_text_characters": 172850,
+      "extracted_text_sha256": "b3386a1141fcfe96859b6ccdcb44421dd06d7664c22eedd95efdde0cb01b6798"
+    },
+    {
+      "id": "hq_List_of_New_York_City_Subway_stations_in_Manhattan_1_pages",
+      "title": "List of New York City Subway stations in Manhattan (linked pages)",
+      "extracted_text_characters": 55404,
+      "extracted_text_sha256": "45b6428335c7d16fedffdf548215dde75f0fa431c12180669239486384267f55"
+    },
+    {
+      "id": "hq_List_of_Norwegian_football_league_champions_2",
+      "title": "List of Norwegian football league champions (table)",
+      "extracted_text_characters": 1429,
+      "extracted_text_sha256": "8106bafeea2cf5cbdb2aafa38a5aeec11c2850e9961256a9bbc8d062745de4dc"
+    },
+    {
+      "id": "hq_List_of_Norwegian_football_league_champions_2_pages",
+      "title": "List of Norwegian football league champions (linked pages)",
+      "extracted_text_characters": 24730,
+      "extracted_text_sha256": "2f5b1b6a5605f437a00e089f20e4d63cf19867b429cdbd91cb1c81d8b70e1501"
+    },
+    {
+      "id": "hq_List_of_Secretaries_of_State_of_Puerto_Rico_0",
+      "title": "List of Secretaries of State of Puerto Rico (table)",
+      "extracted_text_characters": 1000,
+      "extracted_text_sha256": "e8c74da12efbacb8928c236c18d31119023987b6ac832a63d5a8586585c008ef"
+    },
+    {
+      "id": "hq_List_of_Secretaries_of_State_of_Puerto_Rico_0_pages",
+      "title": "List of Secretaries of State of Puerto Rico (linked pages)",
+      "extracted_text_characters": 17620,
+      "extracted_text_sha256": "4ffc8e9f93dca8275858adba99f829cfeffc8912e977b81b2458005d71c73c1a"
+    },
+    {
+      "id": "hq_List_of_Southwestern_Athletic_Conference_Men's_Basketball_Tournament_Finals_broadcasters_0",
+      "title": "List of Southwestern Athletic Conference Men's Basketball Tournament Finals broadcasters (table)",
+      "extracted_text_characters": 1886,
+      "extracted_text_sha256": "b09b6f70342fa8f62a50baf1a497cd6d15b0da06f319d88422c9582196e2ce61"
+    },
+    {
+      "id": "hq_List_of_Southwestern_Athletic_Conference_Men's_Basketball_Tournament_Finals_broadcasters_0_pages",
+      "title": "List of Southwestern Athletic Conference Men's Basketball Tournament Finals broadcasters (linked pages)",
+      "extracted_text_characters": 37965,
+      "extracted_text_sha256": "bb9a7594d6ec342e616102f0578dfa31574dedb245ecbb060c5270f6df6bc58f"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_1",
+      "title": "List of Washington Redskins players (table)",
+      "extracted_text_characters": 879,
+      "extracted_text_sha256": "4721adbc72e697cd06bf84920908de0112f3a5c91765074bcbf62fa8e40ca5cd"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_1_pages",
+      "title": "List of Washington Redskins players (linked pages)",
+      "extracted_text_characters": 35680,
+      "extracted_text_sha256": "8bf84e80e876749319c3fba4e91c98b58f2e1213e0bfc327c4c8b45e7ee7b6c1"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_4_pages",
+      "title": "List of Washington Redskins players (linked pages)",
+      "extracted_text_characters": 34034,
+      "extracted_text_sha256": "92a44131e9cc5e729bb70634c6bf744514a4f3c2f1e0a9a9545c1e49b092bc58"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_by_country_1",
+      "title": "List of association football stadiums by country (table)",
+      "extracted_text_characters": 1461,
+      "extracted_text_sha256": "67b49950681abfffffd1d34f3f7458fdaef866a35cf58ffa527599f97bc6121f"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_by_country_1_pages",
+      "title": "List of association football stadiums by country (linked pages)",
+      "extracted_text_characters": 47529,
+      "extracted_text_sha256": "adbf2973e61c212916eab4b63954e396c49f81b79b3fb001e7b844ad0d4fcdb5"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_by_country_6",
+      "title": "List of association football stadiums by country (table)",
+      "extracted_text_characters": 1729,
+      "extracted_text_sha256": "5b67ae157155b69ea308652579ff68983f6bdffdd888295cf2e47ec918dcbed3"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_by_country_6_pages",
+      "title": "List of association football stadiums by country (linked pages)",
+      "extracted_text_characters": 67102,
+      "extracted_text_sha256": "6e4aca6ce550e823179b730a4fcfdc89b2985e265ff36ab15910304ef29e2886"
+    },
+    {
+      "id": "hq_List_of_burial_places_of_Presidents_of_the_United_States_0",
+      "title": "List of burial places of Presidents of the United States (table)",
+      "extracted_text_characters": 1700,
+      "extracted_text_sha256": "f25edba546bc3237e7dfe1668f8249622864f84689e5b15b67206749c84332c1"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Delaware_County,_New_York_0",
+      "title": "List of county routes in Delaware County, New York (table)",
+      "extracted_text_characters": 1665,
+      "extracted_text_sha256": "a7cd3e9ac17d53f0676aaaf1e60a6c1744782fd3dd85d273eeb57bdef25b51b3"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Delaware_County,_New_York_0_pages",
+      "title": "List of county routes in Delaware County, New York (linked pages)",
+      "extracted_text_characters": 24376,
+      "extracted_text_sha256": "aba9d11c928ec236947262d08e88fdf2508f4c5765b9789ed671bec7a4b1ebb4"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Wayne_County,_New_York_1",
+      "title": "List of county routes in Wayne County, New York (table)",
+      "extracted_text_characters": 1553,
+      "extracted_text_sha256": "8e6f9a5b4c6b3251775780a8bd9e4893cd3d3393dde1bda50f05fc66525431ae"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Wayne_County,_New_York_1_pages",
+      "title": "List of county routes in Wayne County, New York (linked pages)",
+      "extracted_text_characters": 15159,
+      "extracted_text_sha256": "332305d8f5d3e1ee5041fafc09150b87f9f866050fa67532d088c57a0c1f8420"
+    },
+    {
+      "id": "hq_List_of_cricket_grounds_in_India_30_pages",
+      "title": "List of cricket grounds in India (linked pages)",
+      "extracted_text_characters": 90587,
+      "extracted_text_sha256": "4e5882aa8adf3fcfe0d192c2b9c00366f257cb74b0b016a7e84fab480e9c32e4"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_1",
+      "title": "List of doping cases in athletics (table)",
+      "extracted_text_characters": 1618,
+      "extracted_text_sha256": "675be0f2bec325dd4be1394ca4d7592d4570dbc1890688a9fe9630f68c482320"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_1_pages",
+      "title": "List of doping cases in athletics (linked pages)",
+      "extracted_text_characters": 66005,
+      "extracted_text_sha256": "ac01bb9f2d5f6ade8c11b23be839866a702841a6c43a60b990a306531a82f799"
+    },
+    {
+      "id": "hq_List_of_female_United_States_Cabinet_Secretaries_0",
+      "title": "List of female United States Cabinet Secretaries (table)",
+      "extracted_text_characters": 1365,
+      "extracted_text_sha256": "84c239301238a81a16d787b1849175daeec58391fe53c188cb4f0164d584c7bf"
+    },
+    {
+      "id": "hq_List_of_film_spoofs_in_Mad_4",
+      "title": "List of film spoofs in Mad (table)",
+      "extracted_text_characters": 2737,
+      "extracted_text_sha256": "6e2b27021aeb9ad3a76d0b2529b4750bc85a900709b789f6c59210ee1008cc67"
+    },
+    {
+      "id": "hq_List_of_film_spoofs_in_Mad_4_pages",
+      "title": "List of film spoofs in Mad (linked pages)",
+      "extracted_text_characters": 31295,
+      "extracted_text_sha256": "7f7a714d9d0fccbfdb09fff214280662283bda428d1453972b670c9fad047142"
+    },
+    {
+      "id": "hq_List_of_former_national_capitals_6",
+      "title": "List of former national capitals (table)",
+      "extracted_text_characters": 1661,
+      "extracted_text_sha256": "4bbcce8a1694c4fe870f0ff1e59d4f8ded6d015632225aa615186c9e8d59bdc8"
+    },
+    {
+      "id": "hq_List_of_former_national_capitals_6_pages",
+      "title": "List of former national capitals (linked pages)",
+      "extracted_text_characters": 68207,
+      "extracted_text_sha256": "36adaf80eb737157516c46f374e953144938e23d8de805b330fd3b9b2931095e"
+    },
+    {
+      "id": "hq_List_of_helicopter_prison_escapes_0",
+      "title": "List of helicopter prison escapes (table)",
+      "extracted_text_characters": 15257,
+      "extracted_text_sha256": "bab7530374200d342c96e69bec3f4b0505b0d3e514d22ce68baf3035ca72c12a"
+    },
+    {
+      "id": "hq_List_of_helicopter_prison_escapes_0_pages",
+      "title": "List of helicopter prison escapes (linked pages)",
+      "extracted_text_characters": 84126,
+      "extracted_text_sha256": "0982e12e02ed47357d1a60887a1dde50cf761806270f2369e5c3beda92f32c72"
+    },
+    {
+      "id": "hq_List_of_mass_car_bombings_0",
+      "title": "List of mass car bombings (table)",
+      "extracted_text_characters": 1631,
+      "extracted_text_sha256": "c5dde76d73580e2a1e9155559c51a5c03ad2c8a2708d9a3e7c7d4a725e745f52"
+    },
+    {
+      "id": "hq_List_of_mass_car_bombings_0_pages",
+      "title": "List of mass car bombings (linked pages)",
+      "extracted_text_characters": 32601,
+      "extracted_text_sha256": "87a2a8636c8a6a47c39efbab74f4498f30e4edbe7c1aeee1e679309fe59b4995"
+    },
+    {
+      "id": "hq_List_of_oldest_and_youngest_National_Basketball_Association_players_1",
+      "title": "List of oldest and youngest National Basketball Association players (table)",
+      "extracted_text_characters": 5180,
+      "extracted_text_sha256": "6ffe2cf1ed7489344c7e6f29bd121a121f4162fc46b414512e0b730ccf66cb13"
+    },
+    {
+      "id": "hq_List_of_oldest_and_youngest_National_Basketball_Association_players_1_pages",
+      "title": "List of oldest and youngest National Basketball Association players (linked pages)",
+      "extracted_text_characters": 93982,
+      "extracted_text_sha256": "241e546b09d497c24a65a3c508c264ee6fe6f4d0e44827f5134309fb7c35e541"
+    },
+    {
+      "id": "hq_List_of_oldest_and_youngest_National_Basketball_Association_players_3",
+      "title": "List of oldest and youngest National Basketball Association players (table)",
+      "extracted_text_characters": 2241,
+      "extracted_text_sha256": "0fde785e0c54a53623432efad284ffe94cfc6949bc855f4859875263cf32d8eb"
+    },
+    {
+      "id": "hq_List_of_oldest_and_youngest_National_Basketball_Association_players_3_pages",
+      "title": "List of oldest and youngest National Basketball Association players (linked pages)",
+      "extracted_text_characters": 41232,
+      "extracted_text_sha256": "058f82b8ffd634174e6f801d393df64011b0b13233839316fe7b6157798d2483"
+    },
+    {
+      "id": "hq_List_of_oldest_trees_1",
+      "title": "List of oldest trees (table)",
+      "extracted_text_characters": 3779,
+      "extracted_text_sha256": "5b1cf4896cc2ca3d41aadf591cbd2ccc942cbe8b10f5ecd6c78fed03d88feb32"
+    },
+    {
+      "id": "hq_List_of_oldest_trees_1_pages",
+      "title": "List of oldest trees (linked pages)",
+      "extracted_text_characters": 70280,
+      "extracted_text_sha256": "b8a3a76144918b30d808c24713b122078ea71803974fb595f08a173fb261293e"
+    },
+    {
+      "id": "hq_List_of_parasites_of_humans_0",
+      "title": "List of parasites of humans (table)",
+      "extracted_text_characters": 4568,
+      "extracted_text_sha256": "6d3eb7a726ac5dfa07d4c71576d2004d03487cf37627a39bb220291ccc955624"
+    },
+    {
+      "id": "hq_List_of_parasites_of_humans_0_pages",
+      "title": "List of parasites of humans (linked pages)",
+      "extracted_text_characters": 74753,
+      "extracted_text_sha256": "883a01dceaeaa3b22148c036508897f4be3b5c15f86a4a1c82249f6b9b75ac28"
+    },
+    {
+      "id": "hq_List_of_professional_sports_teams_in_Alabama_0",
+      "title": "List of professional sports teams in Alabama (table)",
+      "extracted_text_characters": 1744,
+      "extracted_text_sha256": "b6adf4d9903d644d97671e3ab894f29321da16303de399d0c0c78c2f2823456b"
+    },
+    {
+      "id": "hq_List_of_professional_sports_teams_in_Alabama_0_pages",
+      "title": "List of professional sports teams in Alabama (linked pages)",
+      "extracted_text_characters": 37773,
+      "extracted_text_sha256": "5cceb6586363fcf78c0ac97fed90cb3c626623451bae74b5c728ac4a6adbbc5b"
+    },
+    {
+      "id": "hq_List_of_rugby_league_stadiums_by_capacity_0",
+      "title": "List of rugby league stadiums by capacity (table)",
+      "extracted_text_characters": 2036,
+      "extracted_text_sha256": "6129a19050ffa5243e6e87b752da573d4ae8b0be7201af223c77380da3ce923c"
+    },
+    {
+      "id": "hq_List_of_rugby_league_stadiums_by_capacity_0_pages",
+      "title": "List of rugby league stadiums by capacity (linked pages)",
+      "extracted_text_characters": 93698,
+      "extracted_text_sha256": "2460d2db1e11976e38d5c90b324237e462a2edfda4672d081d3a44b879a3d6e6"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_42nd_Academy_Awards_for_Best_Foreign_Language_Film_0",
+      "title": "List of submissions to the 42nd Academy Awards for Best Foreign Language Film (table)",
+      "extracted_text_characters": 1715,
+      "extracted_text_sha256": "65b25a4a6a3e368cc355582ab77cabd493733ef3a1dd5b1f4f0618742845b6a6"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_42nd_Academy_Awards_for_Best_Foreign_Language_Film_0_pages",
+      "title": "List of submissions to the 42nd Academy Awards for Best Foreign Language Film (linked pages)",
+      "extracted_text_characters": 61322,
+      "extracted_text_sha256": "ffe41214c8722a75e71b444a3540b2497ec60d795111f660cd14d4c6c6d3c3d9"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_53rd_Academy_Awards_for_Best_Foreign_Language_Film_0",
+      "title": "List of submissions to the 53rd Academy Awards for Best Foreign Language Film (table)",
+      "extracted_text_characters": 1657,
+      "extracted_text_sha256": "1ff938f7315af0fba9a288e1c87a02d3820380192698e7427f0e209d2905694c"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_53rd_Academy_Awards_for_Best_Foreign_Language_Film_0_pages",
+      "title": "List of submissions to the 53rd Academy Awards for Best Foreign Language Film (linked pages)",
+      "extracted_text_characters": 58921,
+      "extracted_text_sha256": "a248c704c24c5c9135cbffa6ec2cdb0f606b263d38d3ebe1a5a1bc8c28fa029d"
+    },
+    {
+      "id": "hq_List_of_tallest_buildings_in_South_Korea_0",
+      "title": "List of tallest buildings in South Korea (table)",
+      "extracted_text_characters": 1290,
+      "extracted_text_sha256": "393155417f717c0080514138439795c704bfde861433acb54d0d425089bc54a2"
+    },
+    {
+      "id": "hq_List_of_tallest_buildings_in_South_Korea_0_pages",
+      "title": "List of tallest buildings in South Korea (linked pages)",
+      "extracted_text_characters": 17931,
+      "extracted_text_sha256": "002b959b48e46de3e6b5740b6a01ae7bb884957df3be3c640dfa52ec4fe72714"
+    },
+    {
+      "id": "hq_List_of_tallest_buildings_in_the_United_States_3",
+      "title": "List of tallest buildings in the United States (table)",
+      "extracted_text_characters": 2622,
+      "extracted_text_sha256": "adf775072a281368767b46d93f2a2accf4fabec3d4b5b1dc9d3be547ec391d91"
+    },
+    {
+      "id": "hq_List_of_tallest_buildings_in_the_United_States_3_pages",
+      "title": "List of tallest buildings in the United States (linked pages)",
+      "extracted_text_characters": 37756,
+      "extracted_text_sha256": "2ad72adf2851dedc463ac3d78d9711197c6217c2bc99089722d03a4e580527ed"
+    },
+    {
+      "id": "hq_List_of_tallest_dams_in_the_world_0_pages",
+      "title": "List of tallest dams in the world (linked pages)",
+      "extracted_text_characters": 54808,
+      "extracted_text_sha256": "1a162071e1d1f557be5cb31069661e49c1849db5fe5c35579091399685a20ec1"
+    },
+    {
+      "id": "hq_List_of_television_stations_in_Canada_2",
+      "title": "List of television stations in Canada (table)",
+      "extracted_text_characters": 1858,
+      "extracted_text_sha256": "5c061805eb4829eab197d20050376f3e452629d236e7b770c71af799d4345f9d"
+    },
+    {
+      "id": "hq_List_of_television_stations_in_Canada_2_pages",
+      "title": "List of television stations in Canada (linked pages)",
+      "extracted_text_characters": 52021,
+      "extracted_text_sha256": "f4e15927a307112caa36e231aec760bb1bd4f0425807f6883ef21ed05bd09380"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Brazil_0",
+      "title": "List of the busiest airports in Brazil (table)",
+      "extracted_text_characters": 1323,
+      "extracted_text_sha256": "eb17eb9582f85d0361ba8538c99306922ce9e166b0301a950576417d42ecba93"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Brazil_0_pages",
+      "title": "List of the busiest airports in Brazil (linked pages)",
+      "extracted_text_characters": 30995,
+      "extracted_text_sha256": "650c350569967ce379e6e205fa6f3e7ff67e3c1979d85b99e3dd44462373e32b"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Latin_America_10",
+      "title": "List of the busiest airports in Latin America (table)",
+      "extracted_text_characters": 1477,
+      "extracted_text_sha256": "02d1fc1ff485b3e286a1f4c3f49b2029fe0e4a56df37f1faff2f9f8d6225c12b"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Latin_America_10_pages",
+      "title": "List of the busiest airports in Latin America (linked pages)",
+      "extracted_text_characters": 48055,
+      "extracted_text_sha256": "0ee2a3e710a3375e98331fb660f45ae07c065b634627a5972d8afd8e6d8b8f6a"
+    },
+    {
+      "id": "hq_List_of_the_oldest_buildings_in_the_world_0",
+      "title": "List of the oldest buildings in the world (table)",
+      "extracted_text_characters": 3171,
+      "extracted_text_sha256": "b8bd690049ee0f7c4c71eed3cdb7f0fe2851f56405059355d624be1b04caa7c5"
+    },
+    {
+      "id": "hq_List_of_the_oldest_buildings_in_the_world_0_pages",
+      "title": "List of the oldest buildings in the world (linked pages)",
+      "extracted_text_characters": 60361,
+      "extracted_text_sha256": "e2650dd342e742a28eaacc3694660dbcbde192624d8e1665af5cf34225f21f55"
+    },
+    {
+      "id": "hq_List_of_wind_farms_in_Canada_1",
+      "title": "List of wind farms in Canada (table)",
+      "extracted_text_characters": 1377,
+      "extracted_text_sha256": "3ae3474df19bfac0d9d58a9abe36b3770989f9de147434ef389f5b0a8365785c"
+    },
+    {
+      "id": "hq_List_of_wind_farms_in_Canada_1_pages",
+      "title": "List of wind farms in Canada (linked pages)",
+      "extracted_text_characters": 15201,
+      "extracted_text_sha256": "00fb08b6f93e961e59d2426e6e660f4a0f42738ff69e871d77ca4b948b823e6f"
+    },
+    {
+      "id": "hq_MTV_Europe_Music_Awards_0",
+      "title": "MTV Europe Music Awards (table)",
+      "extracted_text_characters": 1993,
+      "extracted_text_sha256": "47e317eb93056b27cebea1ac30a18a288a8e83027fc0ea69e5c2d7ac2e3979ee"
+    },
+    {
+      "id": "hq_MTV_Europe_Music_Awards_0_pages",
+      "title": "MTV Europe Music Awards (linked pages)",
+      "extracted_text_characters": 137897,
+      "extracted_text_sha256": "a9611dc8dfe3c1e0ddfca518f122459a700b76f3604941f92a60d6cc53a72296"
+    },
+    {
+      "id": "hq_Major_League_Baseball_Manager_of_the_Year_Award_1",
+      "title": "Major League Baseball Manager of the Year Award (table)",
+      "extracted_text_characters": 1115,
+      "extracted_text_sha256": "0a7438664120a92a2d11e4a0f9d84e1c2bebc562b95e223492de5e7b3fad5158"
+    },
+    {
+      "id": "hq_Major_League_Baseball_Manager_of_the_Year_Award_1_pages",
+      "title": "Major League Baseball Manager of the Year Award (linked pages)",
+      "extracted_text_characters": 48848,
+      "extracted_text_sha256": "24cd7834dc901437c35c290a8fe3b8bfca07e46dbdad8580b929a75169418945"
+    },
+    {
+      "id": "hq_NABC_Player_of_the_Year_1",
+      "title": "NABC Player of the Year (table)",
+      "extracted_text_characters": 1245,
+      "extracted_text_sha256": "e9020a084970d5200593b321f5943d542913c02f30e23f7c784faf08fd6a73e5"
+    },
+    {
+      "id": "hq_NABC_Player_of_the_Year_1_pages",
+      "title": "NABC Player of the Year (linked pages)",
+      "extracted_text_characters": 36709,
+      "extracted_text_sha256": "654af27d171b2731e9806d64dba7ba566413fc3527d8afbca864338c8bd21f67"
+    },
+    {
+      "id": "hq_Orson_Scott_Card_bibliography_0_pages",
+      "title": "Orson Scott Card bibliography (linked pages)",
+      "extracted_text_characters": 19240,
+      "extracted_text_sha256": "57e9e33b1cd95bf2db7eb3a9226544be880d9b4b9526dcc050ecd26744db9d64"
+    },
+    {
+      "id": "hq_Pakistan_national_cricket_team_0",
+      "title": "Pakistan national cricket team (table)",
+      "extracted_text_characters": 839,
+      "extracted_text_sha256": "9427813c5cd30d6da84f9519a3d15caae6cabbb30fc5d01162958d1aa67cc6dd"
+    },
+    {
+      "id": "hq_Pakistan_national_cricket_team_0_pages",
+      "title": "Pakistan national cricket team (linked pages)",
+      "extracted_text_characters": 27763,
+      "extracted_text_sha256": "a44aae87dfea79c12675e67005fa7db4d5093f922d5f00e87ef937c55e0fda94"
+    },
+    {
+      "id": "hq_Param_Vir_Chakra_0",
+      "title": "Param Vir Chakra (table)",
+      "extracted_text_characters": 2288,
+      "extracted_text_sha256": "f9d5702db28b1dcb44769c64065b02fbe937620e5d4add97d867fbc00fa105b1"
+    },
+    {
+      "id": "hq_Param_Vir_Chakra_0_pages",
+      "title": "Param Vir Chakra (linked pages)",
+      "extracted_text_characters": 71378,
+      "extracted_text_sha256": "3e94d2f1b5ebcdabf88f1bed1f711a49e7491cbd0d8887de437cc0dc47123414"
+    },
+    {
+      "id": "hq_Sistema_de_Radiodifusoras_Culturales_Indigenistas_0",
+      "title": "Sistema de Radiodifusoras Culturales Indigenistas (table)",
+      "extracted_text_characters": 2130,
+      "extracted_text_sha256": "67abff35940b0bacc3116bb7a96b7d81bbbc2b1af5f05faab151634dcc90eee5"
+    },
+    {
+      "id": "hq_Sistema_de_Radiodifusoras_Culturales_Indigenistas_0_pages",
+      "title": "Sistema de Radiodifusoras Culturales Indigenistas (linked pages)",
+      "extracted_text_characters": 80982,
+      "extracted_text_sha256": "bb303f99efd41795c7ace35b333b41e6bf9b1358bdaff30c2c4ef0a26dfa82ad"
+    },
+    {
+      "id": "hq_Turboprop_0",
+      "title": "Turboprop (table)",
+      "extracted_text_characters": 2843,
+      "extracted_text_sha256": "c22daa42f3d749dbd6f82ddf1f6ba5c029298aaf47b21c85c2ff9970a7aa34fd"
+    },
+    {
+      "id": "hq_Turboprop_0_pages",
+      "title": "Turboprop (linked pages)",
+      "extracted_text_characters": 70091,
+      "extracted_text_sha256": "d046a902bd32377fdf817c2aa6df2a611ac5adbd59705e486da8a816a7d3fe87"
+    },
+    {
+      "id": "hq_List_of_libraries_in_Barcelona_0",
+      "title": "List of libraries in Barcelona (table)",
+      "extracted_text_characters": 2173,
+      "extracted_text_sha256": "2100ec9ff6480a5000f59f7c14fb1b2e16288032fee81ba45a2e7d4cf07c53ce"
+    },
+    {
+      "id": "hq_List_of_libraries_in_Barcelona_0_pages",
+      "title": "List of libraries in Barcelona (linked pages)",
+      "extracted_text_characters": 42684,
+      "extracted_text_sha256": "2758acbaa8c35dbf5ffc15f90996e8fe621bda146e0b450c26dc4fe619860359"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Latin_America_0",
+      "title": "List of the busiest airports in Latin America (table)",
+      "extracted_text_characters": 1558,
+      "extracted_text_sha256": "ff497e8da8886d8d4652dcb2fe46c440680bbdf55782ca040ed3a5ed71b98c9d"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Latin_America_0_pages",
+      "title": "List of the busiest airports in Latin America (linked pages)",
+      "extracted_text_characters": 66558,
+      "extracted_text_sha256": "ee7828baffa0badf0e0130abda973457e43918eb37eade1cead122bc6b626bf8"
+    },
+    {
+      "id": "hq_1984_San_Marino_Grand_Prix_0",
+      "title": "1984 San Marino Grand Prix (table)",
+      "extracted_text_characters": 987,
+      "extracted_text_sha256": "ae967ffe4c678632203247fb0c74247904e6eb5c475ee5b3f5cb82bc13161af5"
+    },
+    {
+      "id": "hq_1984_San_Marino_Grand_Prix_0_pages",
+      "title": "1984 San Marino Grand Prix (linked pages)",
+      "extracted_text_characters": 36809,
+      "extracted_text_sha256": "d24e63885fe03f9fb2bdf21841bde5f4d850972bcfafc271545d6abda4385048"
+    },
+    {
+      "id": "hq_All-Ireland_Senior_Football_Championship_records_and_statistics_0",
+      "title": "All-Ireland Senior Football Championship records and statistics (table)",
+      "extracted_text_characters": 2121,
+      "extracted_text_sha256": "9a990be2362cc8b53171187521e8a88aeaf64d88c51d6410e1163329a107a64d"
+    },
+    {
+      "id": "hq_All-Ireland_Senior_Football_Championship_records_and_statistics_0_pages",
+      "title": "All-Ireland Senior Football Championship records and statistics (linked pages)",
+      "extracted_text_characters": 80973,
+      "extracted_text_sha256": "3d183c37801b0537fd36ec2005f15972f012892dea4aee0dafee2a4d6c5d8919"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_6",
+      "title": "List of Washington Redskins players (table)",
+      "extracted_text_characters": 841,
+      "extracted_text_sha256": "7d83d4f471b03dc16decfb7b337fb38fdb0ca0ed3289a45559acdbd88bf00cec"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_6_pages",
+      "title": "List of Washington Redskins players (linked pages)",
+      "extracted_text_characters": 30367,
+      "extracted_text_sha256": "88404b3fff595aaa2e92d692f9401478b2a1f0df3eff80f7e2a6bc73db7050ed"
+    },
+    {
+      "id": "hq_1984_Dallas_Grand_Prix_0",
+      "title": "1984 Dallas Grand Prix (table)",
+      "extracted_text_characters": 1022,
+      "extracted_text_sha256": "8484c2f173f040c2e1be2673c03555315e7932b0d4f0481cd30ca3b3f48fd12d"
+    },
+    {
+      "id": "hq_1984_Dallas_Grand_Prix_0_pages",
+      "title": "1984 Dallas Grand Prix (linked pages)",
+      "extracted_text_characters": 38482,
+      "extracted_text_sha256": "eff2eaa5aca18e9ba0eb2b5ac1261bb76abeacd3e5682af6030cd35efe1c7298"
+    },
+    {
+      "id": "hq_List_of_Medal_of_Honor_recipients_for_World_War_II_19",
+      "title": "List of Medal of Honor recipients for World War II (table)",
+      "extracted_text_characters": 3721,
+      "extracted_text_sha256": "6b1b4bec58a0dde7e87b5f45cf2cdcb67810c178cddda1c4aedebb1985706f83"
+    },
+    {
+      "id": "hq_List_of_Medal_of_Honor_recipients_for_World_War_II_19_pages",
+      "title": "List of Medal of Honor recipients for World War II (linked pages)",
+      "extracted_text_characters": 40312,
+      "extracted_text_sha256": "7c87513471f06443e63980f8c76a5fe7d5c6575ab7928417d025fb84b0f3b922"
+    },
+    {
+      "id": "hq_Metropolitan_areas_of_Mexico_0",
+      "title": "Metropolitan areas of Mexico (table)",
+      "extracted_text_characters": 1355,
+      "extracted_text_sha256": "658e18afc1188a3995f91f0425d5f5fb82fe66c8b25051d39056673d174f0ec1"
+    },
+    {
+      "id": "hq_Metropolitan_areas_of_Mexico_0_pages",
+      "title": "Metropolitan areas of Mexico (linked pages)",
+      "extracted_text_characters": 54620,
+      "extracted_text_sha256": "a3a3c77feea18261bf5f92f2f21eec5bc64996e06dce49857c65c331d7085b3f"
+    },
+    {
+      "id": "hq_1996_World_Junior_Figure_Skating_Championships_1",
+      "title": "1996 World Junior Figure Skating Championships (table)",
+      "extracted_text_characters": 739,
+      "extracted_text_sha256": "c09f8b3141d10c99a5282ebea9b0b82634632fe8e53a7d5403a2c9a2943e9f03"
+    },
+    {
+      "id": "hq_1996_World_Junior_Figure_Skating_Championships_1_pages",
+      "title": "1996 World Junior Figure Skating Championships (linked pages)",
+      "extracted_text_characters": 32840,
+      "extracted_text_sha256": "1622951223eaa8cbdf497248332f05c701a9a34fab802be3e8a100e9a1e238cf"
+    },
+    {
+      "id": "hq_HK_Lida_0",
+      "title": "HK Lida (table)",
+      "extracted_text_characters": 1501,
+      "extracted_text_sha256": "bfd43f36718fd5e9dbec02bfcdeb6311d6f92209ed534098bda36831a7246a74"
+    },
+    {
+      "id": "hq_HK_Lida_0_pages",
+      "title": "HK Lida (linked pages)",
+      "extracted_text_characters": 17649,
+      "extracted_text_sha256": "f602daaf2e823aeefb470af3e5331dda5584bc9e3892a8004e5275084c006181"
+    },
+    {
+      "id": "hq_List_of_the_oldest_churches_in_the_United_States_0",
+      "title": "List of the oldest churches in the United States (table)",
+      "extracted_text_characters": 3468,
+      "extracted_text_sha256": "069245712eba2ed38e03cd58dd75701063a4eadd0212ff6d41caddf19fe37138"
+    },
+    {
+      "id": "hq_List_of_the_oldest_churches_in_the_United_States_0_pages",
+      "title": "List of the oldest churches in the United States (linked pages)",
+      "extracted_text_characters": 47477,
+      "extracted_text_sha256": "84643231c1e24940385f7548001a1116d3969e02de9ccaf6eddcfdb5df540815"
+    },
+    {
+      "id": "hq_1950_Italian_Grand_Prix_0",
+      "title": "1950 Italian Grand Prix (table)",
+      "extracted_text_characters": 986,
+      "extracted_text_sha256": "6407d9b77200ad8d5e981c0207ba4f8f28a6f168eba0742e9cae62045f8496ce"
+    },
+    {
+      "id": "hq_1950_Italian_Grand_Prix_0_pages",
+      "title": "1950 Italian Grand Prix (linked pages)",
+      "extracted_text_characters": 22128,
+      "extracted_text_sha256": "8a1336a685db9342bbcd6fafc9cfaae2b1b5bb2741ec0bd1299243c8c73676bd"
+    },
+    {
+      "id": "hq_Golden_Eagle_Award_for_Best_Foreign_Language_Film_0",
+      "title": "Golden Eagle Award for Best Foreign Language Film (table)",
+      "extracted_text_characters": 2260,
+      "extracted_text_sha256": "834f5009aeb69d958f8d4bfb40b07da23cd723fe1f93243994db05d1c81a3c5a"
+    },
+    {
+      "id": "hq_Golden_Eagle_Award_for_Best_Foreign_Language_Film_0_pages",
+      "title": "Golden Eagle Award for Best Foreign Language Film (linked pages)",
+      "extracted_text_characters": 84841,
+      "extracted_text_sha256": "a76f9e14f1fe91698530012bfc939f33c191c982eebf4acbafd28e80ecd3db4a"
+    },
+    {
+      "id": "hq_Miss_Teen_USA_1",
+      "title": "Miss Teen USA (table)",
+      "extracted_text_characters": 2841,
+      "extracted_text_sha256": "cd0d8a54dd855465223e3902ebf71353f43de694a1f1020b2fc131434e5beeb3"
+    },
+    {
+      "id": "hq_Miss_Teen_USA_1_pages",
+      "title": "Miss Teen USA (linked pages)",
+      "extracted_text_characters": 87738,
+      "extracted_text_sha256": "d401e15302f23a3dfefa06d9693b2b0fb57285e582700556fbf93c684425026d"
+    },
+    {
+      "id": "hq_List_of_current_members_of_the_Oklahoma_Senate_0",
+      "title": "List of current members of the Oklahoma Senate (table)",
+      "extracted_text_characters": 825,
+      "extracted_text_sha256": "4f63030447faea36353ff33f5073cb46d23703eb683867c8293097de6611547f"
+    },
+    {
+      "id": "hq_List_of_current_members_of_the_Oklahoma_Senate_0_pages",
+      "title": "List of current members of the Oklahoma Senate (linked pages)",
+      "extracted_text_characters": 18052,
+      "extracted_text_sha256": "c15fa81835a20596252e71c26573111a7d5eb0ec56d9b2f796f949b4fee9958e"
+    },
+    {
+      "id": "hq_1952_French_Grand_Prix_0",
+      "title": "1952 French Grand Prix (table)",
+      "extracted_text_characters": 918,
+      "extracted_text_sha256": "4c8094de4952b63fa3e43a0425e49c279dd5e339a607797d8e4f112f35822cee"
+    },
+    {
+      "id": "hq_1952_French_Grand_Prix_0_pages",
+      "title": "1952 French Grand Prix (linked pages)",
+      "extracted_text_characters": 16659,
+      "extracted_text_sha256": "72de7b4f431485e5256d1217080110078a8bf44af447bc881b65cc5a0972a480"
+    },
+    {
+      "id": "hq_1998_Luxembourg_Grand_Prix_0",
+      "title": "1998 Luxembourg Grand Prix (table)",
+      "extracted_text_characters": 1081,
+      "extracted_text_sha256": "9fec0c6445c8aaee8d80fe22f3289f9bf117c6fde6ba1b92dcddfb4b4d64e972"
+    },
+    {
+      "id": "hq_1998_Luxembourg_Grand_Prix_0_pages",
+      "title": "1998 Luxembourg Grand Prix (linked pages)",
+      "extracted_text_characters": 41085,
+      "extracted_text_sha256": "923b610fa4c986d88ca66e5a99935314cc3a49650188fc6eb448113d64590ede"
+    },
+    {
+      "id": "hq_Brazilian_gubernatorial_elections,_2010_0",
+      "title": "Brazilian gubernatorial elections, 2010 (table)",
+      "extracted_text_characters": 4716,
+      "extracted_text_sha256": "8c20af0f4c7c550f9dc306c61dbf9371764a595344ed5757e1c7429493c23484"
+    },
+    {
+      "id": "hq_Brazilian_gubernatorial_elections,_2010_0_pages",
+      "title": "Brazilian gubernatorial elections, 2010 (linked pages)",
+      "extracted_text_characters": 34738,
+      "extracted_text_sha256": "936c6321beb8588647e62b566c7b83e818cc2096e08aaad35dd78a4e27e5e1d4"
+    },
+    {
+      "id": "hq_List_of_South_East_Asian_people_by_net_worth_1",
+      "title": "List of South East Asian people by net worth (table)",
+      "extracted_text_characters": 1176,
+      "extracted_text_sha256": "571d04c32051c158bdd429c7f7c1263b2259386f58de0e6dac59d4a04f49afb6"
+    },
+    {
+      "id": "hq_List_of_South_East_Asian_people_by_net_worth_1_pages",
+      "title": "List of South East Asian people by net worth (linked pages)",
+      "extracted_text_characters": 27959,
+      "extracted_text_sha256": "fcfa10610370d3168ca09b3f0107c9c68eab8cc61adfc851324433cb7a1dc5ba"
+    },
+    {
+      "id": "hq_Baby_of_the_House_2",
+      "title": "Baby of the House (table)",
+      "extracted_text_characters": 1736,
+      "extracted_text_sha256": "bef1e592d85facd71ebbf3bd1da39d87a207f2d70f26e883ac9c0665737364a7"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_12",
+      "title": "List of Washington Redskins players (table)",
+      "extracted_text_characters": 881,
+      "extracted_text_sha256": "3173d4b86176555e56e4ba0d758e926761b523e26ab6060fbeb7ec4bb162db3e"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_12_pages",
+      "title": "List of Washington Redskins players (linked pages)",
+      "extracted_text_characters": 37848,
+      "extracted_text_sha256": "5d55638eff670bd1856561af21c4c18070f72c2b42369267fa51d5de370b25d5"
+    },
+    {
+      "id": "hq_List_of_Metropolitan_Statistical_Areas_0",
+      "title": "List of Metropolitan Statistical Areas (table)",
+      "extracted_text_characters": 2312,
+      "extracted_text_sha256": "4492ba4cf4df82d7ed1cd90846ef397244268aa88a4a1aed6390d3d2fd12d298"
+    },
+    {
+      "id": "hq_List_of_Metropolitan_Statistical_Areas_0_pages",
+      "title": "List of Metropolitan Statistical Areas (linked pages)",
+      "extracted_text_characters": 60724,
+      "extracted_text_sha256": "33aa76ed576ea6b704fbb973ae292be9507ebf08a84f1a48984d6999fa05b25d"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_3",
+      "title": "List of Games for Windows titles (table)",
+      "extracted_text_characters": 1508,
+      "extracted_text_sha256": "0b3c84f3db9909e8f0903cf4fdc407f9cbe0231e31a5596bf7986b525b78578d"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_3_pages",
+      "title": "List of Games for Windows titles (linked pages)",
+      "extracted_text_characters": 45681,
+      "extracted_text_sha256": "65887c6ad4f486d779ea85a2244e1e4859d6ad08eb939ca43c221dd5daa10f17"
+    },
+    {
+      "id": "hq_Media_in_Winnipeg_1",
+      "title": "Media in Winnipeg (table)",
+      "extracted_text_characters": 1501,
+      "extracted_text_sha256": "2780a07c1d2c4b7ff45cfa99aa023ffa2df24ad356ab68eb6d1c262b9bbe08dd"
+    },
+    {
+      "id": "hq_Media_in_Winnipeg_1_pages",
+      "title": "Media in Winnipeg (linked pages)",
+      "extracted_text_characters": 52100,
+      "extracted_text_sha256": "3b5b0e97a1bedfd8c6b2e38bcc78b7b5c6ed25831328bdd5991cbb5e3e197705"
+    },
+    {
+      "id": "hq_Ohio_House_of_Representatives,_127th_General_Assembly_0",
+      "title": "Ohio House of Representatives, 127th General Assembly (table)",
+      "extracted_text_characters": 1096,
+      "extracted_text_sha256": "5a99a314184a0135251dfb0f71f428667fd98ec1df2295d66f4acec53f05b319"
+    },
+    {
+      "id": "hq_Ohio_House_of_Representatives,_127th_General_Assembly_0_pages",
+      "title": "Ohio House of Representatives, 127th General Assembly (linked pages)",
+      "extracted_text_characters": 15888,
+      "extracted_text_sha256": "1298f0f9311f16a4148b3e90a90efa0c3f1fc785f2e5e420ea5ac6ed26cc1509"
+    },
+    {
+      "id": "hq_Owen_Turtenwald_0",
+      "title": "Owen Turtenwald (table)",
+      "extracted_text_characters": 1380,
+      "extracted_text_sha256": "def6a265328751e6acbedff62636f0d4be60183008ed981dc223c62b6e6f5f57"
+    },
+    {
+      "id": "hq_Owen_Turtenwald_0_pages",
+      "title": "Owen Turtenwald (linked pages)",
+      "extracted_text_characters": 11894,
+      "extracted_text_sha256": "cc573b2fc16aca867b0bec90947bbe3412a398f7eef25587fe7b8eb50aaab51e"
+    },
+    {
+      "id": "hq_List_of_Hispanic_Medal_of_Honor_recipients_3",
+      "title": "List of Hispanic Medal of Honor recipients (table)",
+      "extracted_text_characters": 2952,
+      "extracted_text_sha256": "d3379511ac41b3a0516d50b4c9e746d30b81be537dcc8031f956beb62504424f"
+    },
+    {
+      "id": "hq_List_of_Hispanic_Medal_of_Honor_recipients_3_pages",
+      "title": "List of Hispanic Medal of Honor recipients (linked pages)",
+      "extracted_text_characters": 20977,
+      "extracted_text_sha256": "40225394eb4a1f2aba7ad9486afe8adb051bcea27bb71af0fc7ce92d1272bfc8"
+    },
+    {
+      "id": "hq_1991_College_Baseball_All-America_Team_0",
+      "title": "1991 College Baseball All-America Team (table)",
+      "extracted_text_characters": 876,
+      "extracted_text_sha256": "923852df1fcbb7a4876291ed8c26fc47d8f8a27cb7fb62f3b6fc072aee97f1ab"
+    },
+    {
+      "id": "hq_1991_College_Baseball_All-America_Team_0_pages",
+      "title": "1991 College Baseball All-America Team (linked pages)",
+      "extracted_text_characters": 28040,
+      "extracted_text_sha256": "cae561dea87bdb4dfc5ee7dd310f26da3455c3c7bfdd88b2d033496269b7c597"
+    },
+    {
+      "id": "hq_List_of_state_routes_in_New_York_1",
+      "title": "List of state routes in New York (table)",
+      "extracted_text_characters": 1962,
+      "extracted_text_sha256": "cb7ecd8b33895bc725f2539a91a9d66c1955bcb757f9d3c9544ae8c99cddc80a"
+    },
+    {
+      "id": "hq_List_of_state_routes_in_New_York_1_pages",
+      "title": "List of state routes in New York (linked pages)",
+      "extracted_text_characters": 44859,
+      "extracted_text_sha256": "8aba1ddd09483aac41b053290d4331d6f62de31d9958e04004042e32a77675bc"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_in_the_Republic_of_Ireland_0",
+      "title": "List of association football stadiums in the Republic of Ireland (table)",
+      "extracted_text_characters": 1370,
+      "extracted_text_sha256": "27bb2f639b5bb80a268812d351ab5e786a9f72fcd1cf72abd95df2c7cba939d8"
+    },
+    {
+      "id": "hq_List_of_association_football_stadiums_in_the_Republic_of_Ireland_0_pages",
+      "title": "List of association football stadiums in the Republic of Ireland (linked pages)",
+      "extracted_text_characters": 48380,
+      "extracted_text_sha256": "4d07ea8f84f0d75b5fd9a1854a8348a5ad22d2e0eb25d6e5e815604fe89d68b2"
+    },
+    {
+      "id": "hq_South_Korea_national_football_team_records_2",
+      "title": "South Korea national football team records (table)",
+      "extracted_text_characters": 1327,
+      "extracted_text_sha256": "b77f75666a16732fdb6bec00b811dd7daec2a4ffb31af1f1a62f8496e4673023"
+    },
+    {
+      "id": "hq_South_Korea_national_football_team_records_2_pages",
+      "title": "South Korea national football team records (linked pages)",
+      "extracted_text_characters": 26389,
+      "extracted_text_sha256": "f7d74e5c86d864f94eb00fdfcd5da605478515f57728e76a49c17f3439b0a431"
+    },
+    {
+      "id": "hq_2009_Universitario_de_Deportes_season_0",
+      "title": "2009 Universitario de Deportes season (table)",
+      "extracted_text_characters": 683,
+      "extracted_text_sha256": "458b08d387c6c68109c65d8ea1bd7c770e15d57556d79b1cdfa5246345cb9d46"
+    },
+    {
+      "id": "hq_2009_Universitario_de_Deportes_season_0_pages",
+      "title": "2009 Universitario de Deportes season (linked pages)",
+      "extracted_text_characters": 11154,
+      "extracted_text_sha256": "67f546dc8ae518387b9e9b64269a9d6cfbc92bb2fde2ad817ed8ec9ba7c2c10f"
+    },
+    {
+      "id": "hq_Dick_Hyde_(musician)_0",
+      "title": "Dick Hyde (musician) (table)",
+      "extracted_text_characters": 1631,
+      "extracted_text_sha256": "9719d914c2e86fac8a59a6d810f36cf4590de996fc95f88dab524967a888541a"
+    },
+    {
+      "id": "hq_Dick_Hyde_(musician)_0_pages",
+      "title": "Dick Hyde (musician) (linked pages)",
+      "extracted_text_characters": 49961,
+      "extracted_text_sha256": "fc89a5d8137b0ad15758165526a64c509113fa03ed176745a24b0e6910303bb7"
+    },
+    {
+      "id": "hq_129th_Ohio_General_Assembly_1",
+      "title": "129th Ohio General Assembly (table)",
+      "extracted_text_characters": 1047,
+      "extracted_text_sha256": "53cb9b5ac89db75fdb24e40cad3ba8ca900ba9b79e38c7bea27047dc09ab72dc"
+    },
+    {
+      "id": "hq_129th_Ohio_General_Assembly_1_pages",
+      "title": "129th Ohio General Assembly (linked pages)",
+      "extracted_text_characters": 15596,
+      "extracted_text_sha256": "3747b4728f6a2f500876dad07f4fc3a53179710f82054a4bf53945d59cac4cfc"
+    },
+    {
+      "id": "hq_Deloitte_Football_Money_League_5",
+      "title": "Deloitte Football Money League (table)",
+      "extracted_text_characters": 746,
+      "extracted_text_sha256": "db2127c771dd90846ffebd36fe47ff4c1c202682d17f1dd151467bcfdcc57f88"
+    },
+    {
+      "id": "hq_Deloitte_Football_Money_League_5_pages",
+      "title": "Deloitte Football Money League (linked pages)",
+      "extracted_text_characters": 48994,
+      "extracted_text_sha256": "0493b3950186e0fab6b04c44e77ed27dc72a36e2c20166961c5d22c35ffbac84"
+    },
+    {
+      "id": "hq_India_at_the_2010_Asian_Games_3",
+      "title": "India at the 2010 Asian Games (table)",
+      "extracted_text_characters": 1514,
+      "extracted_text_sha256": "a3e94b205ee42ed5b8d332ee56ac72da05cfd94ffd21a13726023b2ae124153d"
+    },
+    {
+      "id": "hq_India_at_the_2010_Asian_Games_3_pages",
+      "title": "India at the 2010 Asian Games (linked pages)",
+      "extracted_text_characters": 26704,
+      "extracted_text_sha256": "2826f058e5e22a1bc5e5ef788bcb49898677faef0eec16d15f7c76814ed02510"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Fulton_County,_New_York_1",
+      "title": "List of county routes in Fulton County, New York (table)",
+      "extracted_text_characters": 1602,
+      "extracted_text_sha256": "d73491c55b85d3fc22ce4bc118242682d883f0df554e857b95d957cbbe4879f3"
+    },
+    {
+      "id": "hq_List_of_county_routes_in_Fulton_County,_New_York_1_pages",
+      "title": "List of county routes in Fulton County, New York (linked pages)",
+      "extracted_text_characters": 18976,
+      "extracted_text_sha256": "8e2ff4154b5413c86e7bf4e9c2be522815c0a8b429867a7687ea3aac846b4e97"
+    },
+    {
+      "id": "hq_List_of_year-end_number-one_albums_(New_Zealand)_0",
+      "title": "List of year-end number-one albums (New Zealand) (table)",
+      "extracted_text_characters": 997,
+      "extracted_text_sha256": "f0aeadde65d0e1580d8e775eeddac303b4052f942e612004765f3b746aa782b4"
+    },
+    {
+      "id": "hq_List_of_year-end_number-one_albums_(New_Zealand)_0_pages",
+      "title": "List of year-end number-one albums (New Zealand) (linked pages)",
+      "extracted_text_characters": 47911,
+      "extracted_text_sha256": "efd0ada61ad21a852de38133c6273faa25f0d2c54e8c781c137175aa0c44fd9e"
+    },
+    {
+      "id": "hq_List_of_songs_recorded_by_Rufus_Wainwright_0",
+      "title": "List of songs recorded by Rufus Wainwright (table)",
+      "extracted_text_characters": 1326,
+      "extracted_text_sha256": "82b74af93b7b004889c0278a33834ba7724e182145af0bc8471482177b7da01d"
+    },
+    {
+      "id": "hq_List_of_songs_recorded_by_Rufus_Wainwright_0_pages",
+      "title": "List of songs recorded by Rufus Wainwright (linked pages)",
+      "extracted_text_characters": 22554,
+      "extracted_text_sha256": "1ec80894fc05c9a0abcacba25b3a1f003fd4cf8d233aef7606efdfae301aaef5"
+    },
+    {
+      "id": "hq_List_of_European_ultra_prominent_peaks_14",
+      "title": "List of European ultra prominent peaks (table)",
+      "extracted_text_characters": 950,
+      "extracted_text_sha256": "1ccc5daaadbade859e2baaadf60b8d735c10832aa6edc79dffd55c1ee26a09e8"
+    },
+    {
+      "id": "hq_List_of_European_ultra_prominent_peaks_14_pages",
+      "title": "List of European ultra prominent peaks (linked pages)",
+      "extracted_text_characters": 27902,
+      "extracted_text_sha256": "ebbe5095ae69979260431e78b3f9ee09f4ac37aaf46e348a7f557b6ead652b59"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Iowa_0",
+      "title": "List of National Historic Landmarks in Iowa (table)",
+      "extracted_text_characters": 4750,
+      "extracted_text_sha256": "0c7f2b0661c2d45237fca8df8e8d34903d9da1b8c31854ec4a72dfbba6393c80"
+    },
+    {
+      "id": "hq_List_of_National_Historic_Landmarks_in_Iowa_0_pages",
+      "title": "List of National Historic Landmarks in Iowa (linked pages)",
+      "extracted_text_characters": 41767,
+      "extracted_text_sha256": "cb3a5007deaf749dea560f738629bffb79caba9426117c6b9ff5385d24297c2a"
+    },
+    {
+      "id": "hq_List_of_NHL_playoff_series_13",
+      "title": "List of NHL playoff series (table)",
+      "extracted_text_characters": 967,
+      "extracted_text_sha256": "426e6e94f2a57a81cf6cdb3e95fad0532057e9c2fc65d9a67c1fd73205955840"
+    },
+    {
+      "id": "hq_List_of_NHL_playoff_series_13_pages",
+      "title": "List of NHL playoff series (linked pages)",
+      "extracted_text_characters": 57136,
+      "extracted_text_sha256": "6e46e7939630bad6a86a853f4d9ed8bf95fdad82e16fc05b3372df715a6ed1b4"
+    },
+    {
+      "id": "hq_2004_German_Grand_Prix_0",
+      "title": "2004 German Grand Prix (table)",
+      "extracted_text_characters": 1025,
+      "extracted_text_sha256": "b898850ff168264aad2d909f9948d8564f5338956e819d0a57e6da30a25d5eda"
+    },
+    {
+      "id": "hq_2004_German_Grand_Prix_0_pages",
+      "title": "2004 German Grand Prix (linked pages)",
+      "extracted_text_characters": 45856,
+      "extracted_text_sha256": "bffda66e52646dd3d97ab84828de86a756284b5a3cb11bab7330379ee46b9693"
+    },
+    {
+      "id": "hq_List_of_songs_in_Guitar_Hero_II_2",
+      "title": "List of songs in Guitar Hero II (table)",
+      "extracted_text_characters": 1685,
+      "extracted_text_sha256": "544e4f72e77547161313b6497a0cdd484a7f5c4a71400d95c3194d6cbd49bbc9"
+    },
+    {
+      "id": "hq_List_of_songs_in_Guitar_Hero_II_2_pages",
+      "title": "List of songs in Guitar Hero II (linked pages)",
+      "extracted_text_characters": 36731,
+      "extracted_text_sha256": "1ba5261735385ef9ebe750cf6ffc3d84776c88dfa7e8a4ff25bfb27ec3a4169b"
+    },
+    {
+      "id": "hq_List_of_New_York_City_Subway_stations_in_Queens_1",
+      "title": "List of New York City Subway stations in Queens (table)",
+      "extracted_text_characters": 1502,
+      "extracted_text_sha256": "589ab85281e9e3ee7eeaa75f28f50f3b6dcd3336a224de43434d40c786a204d5"
+    },
+    {
+      "id": "hq_List_of_New_York_City_Subway_stations_in_Queens_1_pages",
+      "title": "List of New York City Subway stations in Queens (linked pages)",
+      "extracted_text_characters": 38146,
+      "extracted_text_sha256": "4e82dca4007aa177264df654199eee1633b336dd8a4829229f3de0f8e3bf227b"
+    },
+    {
+      "id": "hq_2006_in_video_gaming_1",
+      "title": "2006 in video gaming (table)",
+      "extracted_text_characters": 1675,
+      "extracted_text_sha256": "4210b64a9555560a7b0f315963fc38efe50470910e14d3ca31f49416f32699ef"
+    },
+    {
+      "id": "hq_2006_in_video_gaming_1_pages",
+      "title": "2006 in video gaming (linked pages)",
+      "extracted_text_characters": 50948,
+      "extracted_text_sha256": "57798bdfbf988bdd3df03d4fc2344d7b19714ba76732062972f2635ee1e15769"
+    },
+    {
+      "id": "hq_List_of_Seattle_bridges_0",
+      "title": "List of Seattle bridges (table)",
+      "extracted_text_characters": 2309,
+      "extracted_text_sha256": "5fd25c0c7a5084a14cadb4390cf3b773a0f534d8ae6fd0ad11f1420688c0ff04"
+    },
+    {
+      "id": "hq_List_of_Seattle_bridges_0_pages",
+      "title": "List of Seattle bridges (linked pages)",
+      "extracted_text_characters": 42748,
+      "extracted_text_sha256": "ad6bd84cce2c319cc82537ac921a81491da085f35b34f83616cca6e6310ff0a9"
+    },
+    {
+      "id": "hq_Head_of_the_River_(Queensland)_13",
+      "title": "Head of the River (Queensland) (table)",
+      "extracted_text_characters": 1425,
+      "extracted_text_sha256": "a84a7d80fa092412a1b45be0327ba7b0abfbd9989128fb8c1de35471e8a006b9"
+    },
+    {
+      "id": "hq_Head_of_the_River_(Queensland)_13_pages",
+      "title": "Head of the River (Queensland) (linked pages)",
+      "extracted_text_characters": 10541,
+      "extracted_text_sha256": "91293eb0482c9c290d0c7953a321cfb58af44f64e3eb597acee623e52a0b3313"
+    },
+    {
+      "id": "hq_2010_Japan_Golf_Tour_0",
+      "title": "2010 Japan Golf Tour (table)",
+      "extracted_text_characters": 1610,
+      "extracted_text_sha256": "f99bedb4f78fbb6702e5836e39e6bf374e35421e37e2354d7a4fd6840cbf1239"
+    },
+    {
+      "id": "hq_2010_Japan_Golf_Tour_0_pages",
+      "title": "2010 Japan Golf Tour (linked pages)",
+      "extracted_text_characters": 27459,
+      "extracted_text_sha256": "a75a971bc1895abc86c580a53b96fc4a07470b44d427a33df31fbbae19ceaf6a"
+    },
+    {
+      "id": "hq_2007_AFL_Draft_3",
+      "title": "2007 AFL Draft (table)",
+      "extracted_text_characters": 1075,
+      "extracted_text_sha256": "ac9b0d92305adab97ec80b6008bbde71e25ad51b1385a96ad38ddda5a8a082bf"
+    },
+    {
+      "id": "hq_2007_AFL_Draft_3_pages",
+      "title": "2007 AFL Draft (linked pages)",
+      "extracted_text_characters": 49293,
+      "extracted_text_sha256": "605030259138815ab9efe56583477ff673ea2f5198d786e157431e62e1f202a2"
+    },
+    {
+      "id": "hq_List_of_original_programs_distributed_by_Netflix_9",
+      "title": "List of original programs distributed by Netflix (table)",
+      "extracted_text_characters": 1811,
+      "extracted_text_sha256": "2eec6fe21e17caf042aa8c09ede8f839092d43dfc70669eb03dc67a1f29609fe"
+    },
+    {
+      "id": "hq_List_of_original_programs_distributed_by_Netflix_9_pages",
+      "title": "List of original programs distributed by Netflix (linked pages)",
+      "extracted_text_characters": 23475,
+      "extracted_text_sha256": "22cfa884f4f05b4dccdead260045bd396fb93e75293ca490536c61979c77bcda"
+    },
+    {
+      "id": "hq_Irish_Sea_0",
+      "title": "Irish Sea (table)",
+      "extracted_text_characters": 1181,
+      "extracted_text_sha256": "5ca13f284b71c67bcf557f4208f54f08d78f3f940fe8c6122a21ece9a788b5ae"
+    },
+    {
+      "id": "hq_Irish_Sea_0_pages",
+      "title": "Irish Sea (linked pages)",
+      "extracted_text_characters": 39328,
+      "extracted_text_sha256": "631e4427397a2f523acd5acafeb507b078952c77fbd33a9367ae05b78ab18f81"
+    },
+    {
+      "id": "hq_Big_East_Men's_Basketball_Tournament_0",
+      "title": "Big East Men's Basketball Tournament (table)",
+      "extracted_text_characters": 1954,
+      "extracted_text_sha256": "f99b00224db1b4c21fd9d9726c3f2274547fdd84a0f5dcc962ad582d943517a4"
+    },
+    {
+      "id": "hq_Big_East_Men's_Basketball_Tournament_0_pages",
+      "title": "Big East Men's Basketball Tournament (linked pages)",
+      "extracted_text_characters": 43181,
+      "extracted_text_sha256": "2f90a8854d80781edbe53a0e45d0804b3ff9e79f84ddab4122c0579666040344"
+    },
+    {
+      "id": "hq_List_of_Coventry_Blaze_players_0",
+      "title": "List of Coventry Blaze players (table)",
+      "extracted_text_characters": 1335,
+      "extracted_text_sha256": "f46b4339771cf21e52f6366ff7918695f13dd609087b15ba3a5cb8b45044d1ed"
+    },
+    {
+      "id": "hq_List_of_Coventry_Blaze_players_0_pages",
+      "title": "List of Coventry Blaze players (linked pages)",
+      "extracted_text_characters": 18594,
+      "extracted_text_sha256": "e070f209fa4b47584e3756508960f9fea8eca9498a837f7705ef77dbb186bf10"
+    },
+    {
+      "id": "hq_CZW_Cage_of_Death_0",
+      "title": "CZW Cage of Death (table)",
+      "extracted_text_characters": 3702,
+      "extracted_text_sha256": "38a55076d6ca01f8a3fbbef4920bbdcacda78fd77d9e2452096698c276fa894c"
+    },
+    {
+      "id": "hq_CZW_Cage_of_Death_0_pages",
+      "title": "CZW Cage of Death (linked pages)",
+      "extracted_text_characters": 24994,
+      "extracted_text_sha256": "6d7411dfee2722989b3715c5245358f610608818e3cf705adb6c126b60c8ed61"
+    },
+    {
+      "id": "hq_1989_NCAA_Women's_Division_I_Basketball_Tournament_2",
+      "title": "1989 NCAA Women's Division I Basketball Tournament (table)",
+      "extracted_text_characters": 1619,
+      "extracted_text_sha256": "4285f883d55f87801683f36a6629cab37401c92937e03984e04e830b19509dc7"
+    },
+    {
+      "id": "hq_1989_NCAA_Women's_Division_I_Basketball_Tournament_2_pages",
+      "title": "1989 NCAA Women's Division I Basketball Tournament (linked pages)",
+      "extracted_text_characters": 96071,
+      "extracted_text_sha256": "6339a00ec6de1ddbc8061c80b664bae9a35412fad8b90c39c41ff3d7fcfeca69"
+    },
+    {
+      "id": "hq_List_of_German_World_War_II_jet_aces_0",
+      "title": "List of German World War II jet aces (table)",
+      "extracted_text_characters": 1730,
+      "extracted_text_sha256": "e2fb8bb191f4cd164b9f3b53eda002db2836a5e7c27a2aa7c6884c35a703bacd"
+    },
+    {
+      "id": "hq_List_of_German_World_War_II_jet_aces_0_pages",
+      "title": "List of German World War II jet aces (linked pages)",
+      "extracted_text_characters": 37517,
+      "extracted_text_sha256": "4ce3beffd2eb1abcf6a08de3dd53236c35a6757cd6dfffed6e15ee3b3b089249"
+    },
+    {
+      "id": "hq_List_of_comets_visited_by_spacecraft_3",
+      "title": "List of comets visited by spacecraft (table)",
+      "extracted_text_characters": 1827,
+      "extracted_text_sha256": "dddf1770a5cb8014b8947b6565e0262a119d18ca0cc95bbfad5d46a0a64359c3"
+    },
+    {
+      "id": "hq_List_of_comets_visited_by_spacecraft_3_pages",
+      "title": "List of comets visited by spacecraft (linked pages)",
+      "extracted_text_characters": 29674,
+      "extracted_text_sha256": "9b7df277b59e92b6a407169c48317573830c92251b8af90b70c87d99d762f0d4"
+    },
+    {
+      "id": "hq_1992_Hungarian_Grand_Prix_0",
+      "title": "1992 Hungarian Grand Prix (table)",
+      "extracted_text_characters": 1087,
+      "extracted_text_sha256": "8f7a619f4253d35dbdf498d24b40c3522eaca623627552e5015d09995d25dff7"
+    },
+    {
+      "id": "hq_1992_Hungarian_Grand_Prix_0_pages",
+      "title": "1992 Hungarian Grand Prix (linked pages)",
+      "extracted_text_characters": 40250,
+      "extracted_text_sha256": "eb454817117cc751b26cfd2081bf5b50e76171cd6868e5e9a30c74b3c25fa623"
+    },
+    {
+      "id": "hq_2009_Coupe_Internationale_de_Nice_1",
+      "title": "2009 Coupe Internationale de Nice (table)",
+      "extracted_text_characters": 824,
+      "extracted_text_sha256": "454fbd0533e98066a8953197430137ce8bd95e324e0440742094a4684ff37923"
+    },
+    {
+      "id": "hq_2009_Coupe_Internationale_de_Nice_1_pages",
+      "title": "2009 Coupe Internationale de Nice (linked pages)",
+      "extracted_text_characters": 30106,
+      "extracted_text_sha256": "6fc0b492bfad7b00b4c45cd40b9bb654f47946e1d8a76a21a49d6c767fb4fa53"
+    },
+    {
+      "id": "hq_2000_Australian_Grand_Prix_0",
+      "title": "2000 Australian Grand Prix (table)",
+      "extracted_text_characters": 1072,
+      "extracted_text_sha256": "e0505df5dad3db76c424a7c034b2033d5367fd8e6dfd3b6429bdbf48a8f724ee"
+    },
+    {
+      "id": "hq_2000_Australian_Grand_Prix_0_pages",
+      "title": "2000 Australian Grand Prix (linked pages)",
+      "extracted_text_characters": 45687,
+      "extracted_text_sha256": "7c6f35449be636e822bb1148df09c943cf7b2218722e02daf0f0c902b0d465eb"
+    },
+    {
+      "id": "hq_Antoine_Ruel_0",
+      "title": "Antoine Ruel (table)",
+      "extracted_text_characters": 1206,
+      "extracted_text_sha256": "070d7c1759d6810e4a67b5bf8541d4d19fcc74f177ec26d98ce8a1ed69f9708e"
+    },
+    {
+      "id": "hq_Antoine_Ruel_0_pages",
+      "title": "Antoine Ruel (linked pages)",
+      "extracted_text_characters": 12910,
+      "extracted_text_sha256": "2cec02361ec347072fbb2e209381bcfb7a4287d3ecf2e7560b9dee5e58518730"
+    },
+    {
+      "id": "hq_List_of_Beta_Upsilon_Chi_chapters_0",
+      "title": "List of Beta Upsilon Chi chapters (table)",
+      "extracted_text_characters": 1185,
+      "extracted_text_sha256": "00df8ef068b7cf2d3ff2d412e566f6da321e44140d87e178a905733196b43bba"
+    },
+    {
+      "id": "hq_List_of_Beta_Upsilon_Chi_chapters_0_pages",
+      "title": "List of Beta Upsilon Chi chapters (linked pages)",
+      "extracted_text_characters": 55815,
+      "extracted_text_sha256": "1cd2e68233a7b96fbabf97d35f20adfafcd7b6c17c9f4aa19a3a917a074ea997"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_3",
+      "title": "List of doping cases in athletics (table)",
+      "extracted_text_characters": 1497,
+      "extracted_text_sha256": "20500d1b27b95654305140b18aeda3e8d73eea5fa207c33f595016001dea542f"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_3_pages",
+      "title": "List of doping cases in athletics (linked pages)",
+      "extracted_text_characters": 46109,
+      "extracted_text_sha256": "0c4eee63b938909802cf01e40e9f42d5e93a741472b27c763de104d06ef0bb9a"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Central_America_4",
+      "title": "List of the busiest airports in Central America (table)",
+      "extracted_text_characters": 1568,
+      "extracted_text_sha256": "5b581bb11dedfeaec429af1c120efa207d6ce63a0bd801fd44e7306df218b4ab"
+    },
+    {
+      "id": "hq_List_of_the_busiest_airports_in_Central_America_4_pages",
+      "title": "List of the busiest airports in Central America (linked pages)",
+      "extracted_text_characters": 39964,
+      "extracted_text_sha256": "9f4448f422a3264d17449568beb7584ef3122eab0e11cd9d7231cfa8d5963c7f"
+    },
+    {
+      "id": "hq_List_of_Christian_religious_houses_in_Denmark_0",
+      "title": "List of Christian religious houses in Denmark (table)",
+      "extracted_text_characters": 2504,
+      "extracted_text_sha256": "8a52152c04dbf61c3786d31644f09d7b7d82918ff719a1e4ef766a0970ae31ec"
+    },
+    {
+      "id": "hq_List_of_Christian_religious_houses_in_Denmark_0_pages",
+      "title": "List of Christian religious houses in Denmark (linked pages)",
+      "extracted_text_characters": 43466,
+      "extracted_text_sha256": "db02f9738ec67261f63db32d4ad044b29df0e2a32dfe423593cc94b85b86b2d7"
+    },
+    {
+      "id": "hq_List_of_parks_in_Seoul_0",
+      "title": "List of parks in Seoul (table)",
+      "extracted_text_characters": 1440,
+      "extracted_text_sha256": "f2169abdbc788f3ee2a98b0241a36d0faa31438ebebf9e7c9ef8b0ee73d778c8"
+    },
+    {
+      "id": "hq_List_of_parks_in_Seoul_0_pages",
+      "title": "List of parks in Seoul (linked pages)",
+      "extracted_text_characters": 18276,
+      "extracted_text_sha256": "6ebf44453c3a61d13048a8f60f0e0326645c296de21bf2005217f471d5c92aa3"
+    },
+    {
+      "id": "hq_2001_Brazilian_Grand_Prix_0",
+      "title": "2001 Brazilian Grand Prix (table)",
+      "extracted_text_characters": 1088,
+      "extracted_text_sha256": "0cf8a3331f39a2aa13cdb2960960fc81ff615e1f4642d18ee26593060f8c8a96"
+    },
+    {
+      "id": "hq_2001_Brazilian_Grand_Prix_0_pages",
+      "title": "2001 Brazilian Grand Prix (linked pages)",
+      "extracted_text_characters": 48119,
+      "extracted_text_sha256": "4ad920038fd13d09c23aed04f56d6d58c8aabd0faea2338e8ad3acbaa89da10a"
+    },
+    {
+      "id": "hq_List_of_NHL_playoff_series_23",
+      "title": "List of NHL playoff series (table)",
+      "extracted_text_characters": 1130,
+      "extracted_text_sha256": "3fce67511effad2bf683450f2bc38773214676bafbad1d38e524ea6d71dc3ade"
+    },
+    {
+      "id": "hq_List_of_NHL_playoff_series_23_pages",
+      "title": "List of NHL playoff series (linked pages)",
+      "extracted_text_characters": 72874,
+      "extracted_text_sha256": "88c5ab8c170784e06149e8a03f4f2a1152059230e493afc78be92009a6769873"
+    },
+    {
+      "id": "hq_List_of_Linux_distributions_endorsed_by_the_Free_Software_Foundation_1",
+      "title": "List of Linux distributions endorsed by the Free Software Foundation (table)",
+      "extracted_text_characters": 1600,
+      "extracted_text_sha256": "93c1c618b94269f478f665afdea8550d62341c32a56bff299863e7f78ecbbf41"
+    },
+    {
+      "id": "hq_List_of_Linux_distributions_endorsed_by_the_Free_Software_Foundation_1_pages",
+      "title": "List of Linux distributions endorsed by the Free Software Foundation (linked pages)",
+      "extracted_text_characters": 35552,
+      "extracted_text_sha256": "3f298279c65875a7e3aed92894b2a3655a6e1f772f112beeb9ebce0cd4cfcc15"
+    },
+    {
+      "id": "hq_2001_Japanese_Grand_Prix_0",
+      "title": "2001 Japanese Grand Prix (table)",
+      "extracted_text_characters": 1082,
+      "extracted_text_sha256": "2ef0fb2176a512f61e7bddc34850acdc704d4c1ed74f0ae4a2380c5a15883c98"
+    },
+    {
+      "id": "hq_2001_Japanese_Grand_Prix_0_pages",
+      "title": "2001 Japanese Grand Prix (linked pages)",
+      "extracted_text_characters": 48729,
+      "extracted_text_sha256": "d601958a656f67e9bd520fe7f15fe233fda78d503b6983f39bcd9d68474744a8"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_64th_Academy_Awards_for_Best_Foreign_Language_Film_0",
+      "title": "List of submissions to the 64th Academy Awards for Best Foreign Language Film (table)",
+      "extracted_text_characters": 1595,
+      "extracted_text_sha256": "199d601b62d0f5d798c76f496c4249f8f946d78346bbf08f7b7a5afb132dc7a3"
+    },
+    {
+      "id": "hq_List_of_submissions_to_the_64th_Academy_Awards_for_Best_Foreign_Language_Film_0_pages",
+      "title": "List of submissions to the 64th Academy Awards for Best Foreign Language Film (linked pages)",
+      "extracted_text_characters": 92602,
+      "extracted_text_sha256": "60c0a3f472be3839b33ed000b12f2cd2c3a23b46572c7a3d74e256b759e7ec79"
+    },
+    {
+      "id": "hq_List_of_New_York_Rangers_draft_picks_0",
+      "title": "List of New York Rangers draft picks (table)",
+      "extracted_text_characters": 667,
+      "extracted_text_sha256": "d3303019c7a794ef90707719386c555b771787fdea143589445ab10f03082d0b"
+    },
+    {
+      "id": "hq_List_of_New_York_Rangers_draft_picks_0_pages",
+      "title": "List of New York Rangers draft picks (linked pages)",
+      "extracted_text_characters": 14663,
+      "extracted_text_sha256": "0b7ee284c3825de7a8d550e18e24232d851ed5923d5a6104dccb2cafb3a09ce2"
+    },
+    {
+      "id": "hq_List_of_museums_in_the_San_Francisco_Bay_Area_4",
+      "title": "List of museums in the San Francisco Bay Area (table)",
+      "extracted_text_characters": 2715,
+      "extracted_text_sha256": "088c9fade3bd61e3c221badefaeb18a7fe9237708e848222df3d4464bf181ff2"
+    },
+    {
+      "id": "hq_List_of_museums_in_the_San_Francisco_Bay_Area_4_pages",
+      "title": "List of museums in the San Francisco Bay Area (linked pages)",
+      "extracted_text_characters": 22885,
+      "extracted_text_sha256": "8e68988bbca8a57b28110df75dfd34ca7c73788aa1a535a00943e41b3394b658"
+    },
+    {
+      "id": "hq_List_of_Motorola_products_16",
+      "title": "List of Motorola products (table)",
+      "extracted_text_characters": 1003,
+      "extracted_text_sha256": "d5ef9dd18541b59e1375a752a18b7d8a392ba0e8f5037cb88e120080e1b6421a"
+    },
+    {
+      "id": "hq_List_of_Motorola_products_16_pages",
+      "title": "List of Motorola products (linked pages)",
+      "extracted_text_characters": 10921,
+      "extracted_text_sha256": "7e3e5b4e727783745eaceb3de17183c2dd42a2b729b7c40eb3f465dc8580f55b"
+    },
+    {
+      "id": "hq_List_of_Serbian_football_champions_6",
+      "title": "List of Serbian football champions (table)",
+      "extracted_text_characters": 1780,
+      "extracted_text_sha256": "4ea7699aeba0d9a10d0287022246d9bb2d2daf45ed93507447d42a1fbeddda6a"
+    },
+    {
+      "id": "hq_List_of_Serbian_football_champions_6_pages",
+      "title": "List of Serbian football champions (linked pages)",
+      "extracted_text_characters": 39389,
+      "extracted_text_sha256": "7d3f620ceb7a6bd0b36b83e503e4f8f73f8e9bbabed6a254817af4defc60f3e7"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_rushing_yards_leaders_0",
+      "title": "List of National Football League rushing yards leaders (table)",
+      "extracted_text_characters": 2252,
+      "extracted_text_sha256": "f3b69086cebff2c8ce3722bb530b0222608862a5d1bbbaa391b71687112bed9f"
+    },
+    {
+      "id": "hq_List_of_National_Football_League_rushing_yards_leaders_0_pages",
+      "title": "List of National Football League rushing yards leaders (linked pages)",
+      "extracted_text_characters": 99969,
+      "extracted_text_sha256": "40da418470c5b4a66d900ecfa1c46357c6334572c533c11af743cbfc6c2f883e"
+    },
+    {
+      "id": "hq_List_of_bus_transit_systems_in_the_United_States_4",
+      "title": "List of bus transit systems in the United States (table)",
+      "extracted_text_characters": 1551,
+      "extracted_text_sha256": "9728e66501b7054f6803d4606ab0520ddbfbf5b296b32db00670bb41ecb48a4d"
+    },
+    {
+      "id": "hq_List_of_bus_transit_systems_in_the_United_States_4_pages",
+      "title": "List of bus transit systems in the United States (linked pages)",
+      "extracted_text_characters": 40395,
+      "extracted_text_sha256": "62fbc96a32c1766564525841746d54849d3ee1873e8a479ee386f5296760aa74"
+    },
+    {
+      "id": "hq_List_of_highways_in_Ontario_1",
+      "title": "List of highways in Ontario (table)",
+      "extracted_text_characters": 1647,
+      "extracted_text_sha256": "efe26fcc0ca2dd69d17d664d260b3a1dc72728c2fcc3314b0c7ea3d01ba302bc"
+    },
+    {
+      "id": "hq_List_of_highways_in_Ontario_1_pages",
+      "title": "List of highways in Ontario (linked pages)",
+      "extracted_text_characters": 54508,
+      "extracted_text_sha256": "393078457db410848fdd348e2fe80491e3053cb34098b8280a99c373e58dd917"
+    },
+    {
+      "id": "hq_Binaca_Geetmala_annual_list_1975_0",
+      "title": "Binaca Geetmala annual list 1975 (table)",
+      "extracted_text_characters": 1981,
+      "extracted_text_sha256": "7b5bc0c51af1b851daa6154cc646f60ac89e51c93f9243d1cf857714480bc877"
+    },
+    {
+      "id": "hq_Binaca_Geetmala_annual_list_1975_0_pages",
+      "title": "Binaca Geetmala annual list 1975 (linked pages)",
+      "extracted_text_characters": 32189,
+      "extracted_text_sha256": "77b820f3936f55f086ddff251aedcb4bec897b83c9d2c9aa7d5992c7970089a3"
+    },
+    {
+      "id": "hq_Atlanta_Hawks_draft_history_0",
+      "title": "Atlanta Hawks draft history (table)",
+      "extracted_text_characters": 1253,
+      "extracted_text_sha256": "3b70496d3aa2a08d570955efd200c72b0056d711d36171671c232b113364777b"
+    },
+    {
+      "id": "hq_Atlanta_Hawks_draft_history_0_pages",
+      "title": "Atlanta Hawks draft history (linked pages)",
+      "extracted_text_characters": 59413,
+      "extracted_text_sha256": "81e759b0513d67f51521d9c587ad69f9118db860ee866885419e473a88b75c47"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_2",
+      "title": "List of doping cases in athletics (table)",
+      "extracted_text_characters": 1534,
+      "extracted_text_sha256": "f8f32029221dfa3ad62928e31de4a4e7d5c936de444d45901eb2dd3b814bb7a5"
+    },
+    {
+      "id": "hq_List_of_doping_cases_in_athletics_2_pages",
+      "title": "List of doping cases in athletics (linked pages)",
+      "extracted_text_characters": 60247,
+      "extracted_text_sha256": "c066d792d63793373874654bda4d0ba20265b027f42fbb73761e6f256c8673d0"
+    },
+    {
+      "id": "hq_List_of_schools_in_Perth,_Western_Australia_6",
+      "title": "List of schools in Perth, Western Australia (table)",
+      "extracted_text_characters": 1439,
+      "extracted_text_sha256": "c2be66e0801f2989fb11d7f06be671675c966d747a25012ec0ba0bacb5ba3824"
+    },
+    {
+      "id": "hq_List_of_schools_in_Perth,_Western_Australia_6_pages",
+      "title": "List of schools in Perth, Western Australia (linked pages)",
+      "extracted_text_characters": 14122,
+      "extracted_text_sha256": "834d1c80bddd318d50a46139db0d5cd55a9dcbd6ecb82133b2c7527df6fbf0de"
+    },
+    {
+      "id": "hq_List_of_football_clubs_in_Spain_0",
+      "title": "List of football clubs in Spain (table)",
+      "extracted_text_characters": 1251,
+      "extracted_text_sha256": "6dfb7c66d39319666713fa9b1c48c2702abd2f24dcba340ffbdbf221a7d1b350"
+    },
+    {
+      "id": "hq_List_of_football_clubs_in_Spain_0_pages",
+      "title": "List of football clubs in Spain (linked pages)",
+      "extracted_text_characters": 70930,
+      "extracted_text_sha256": "07e4f21b7c3edde7db11cb23787541d564dee168e3648e872cafaeec4f61ec34"
+    },
+    {
+      "id": "hq_Luis_Scott-Vargas_0",
+      "title": "Luis Scott-Vargas (table)",
+      "extracted_text_characters": 1415,
+      "extracted_text_sha256": "37901a53f5479efb317ff49f19ddd8a61427e0c06cedc253c7c8bedce12208b8"
+    },
+    {
+      "id": "hq_Luis_Scott-Vargas_0_pages",
+      "title": "Luis Scott-Vargas (linked pages)",
+      "extracted_text_characters": 14545,
+      "extracted_text_sha256": "8c2090d7565dd074582650d75b32027b932424132fbc819dd3a777cc76743cd5"
+    },
+    {
+      "id": "hq_List_of_New_York_City_Subway_stations_in_Manhattan_1",
+      "title": "List of New York City Subway stations in Manhattan (table)",
+      "extracted_text_characters": 1646,
+      "extracted_text_sha256": "25999785628c2b30175e3d836dd52fcf9155d6977a548f1a66c9628b3349962c"
+    },
+    {
+      "id": "hq_Orson_Scott_Card_bibliography_0",
+      "title": "Orson Scott Card bibliography (table)",
+      "extracted_text_characters": 4196,
+      "extracted_text_sha256": "e8b2334ad40ffc3c25f380802cf3e6b593c192d798b31b2f6bd0a9408cd3003e"
+    },
+    {
+      "id": "hq_List_of_Medal_of_Honor_recipients_educated_at_the_United_States_Military_Academy_1",
+      "title": "List of Medal of Honor recipients educated at the United States Military Academy (table)",
+      "extracted_text_characters": 3864,
+      "extracted_text_sha256": "ccf5d051aa362146c0a7c698c5802577fda23dfa243064537088fb9226ee036b"
+    },
+    {
+      "id": "hq_SJPF_Segunda_Liga_Player_of_the_Month_0_pages",
+      "title": "SJPF Segunda Liga Player of the Month (linked pages)",
+      "extracted_text_characters": 17902,
+      "extracted_text_sha256": "795ea6b29d9b14a662c1a34b09e163519d668f983c5a967b7ab06d78d32ba2a0"
+    },
+    {
+      "id": "hq_ACM_International_Collegiate_Programming_Contest_2_pages",
+      "title": "ACM International Collegiate Programming Contest (linked pages)",
+      "extracted_text_characters": 15586,
+      "extracted_text_sha256": "069f7f1242a995401db6127d26db7495728ae5fa231169be4635f5be1958b20c"
+    },
+    {
+      "id": "hq_Land_Force_Western_Area_0",
+      "title": "Land Force Western Area (table)",
+      "extracted_text_characters": 1007,
+      "extracted_text_sha256": "d91068f321978c8784cb25a0a1bda044e1c61b0591691d016e57fe21aac83802"
+    },
+    {
+      "id": "hq_List_of_burial_places_of_Presidents_of_the_United_States_0_pages",
+      "title": "List of burial places of Presidents of the United States (linked pages)",
+      "extracted_text_characters": 94611,
+      "extracted_text_sha256": "d29b172f1ee5a318e94bdb709a0db1925c504a1fc7e8143bc049ee5ff6ce112d"
+    },
+    {
+      "id": "hq_List_of_female_United_States_Cabinet_Secretaries_0_pages",
+      "title": "List of female United States Cabinet Secretaries (linked pages)",
+      "extracted_text_characters": 46474,
+      "extracted_text_sha256": "d2a9e5557e5a899a26e24d92ef6cf2515d0b28165a030d25d3434209c2ded843"
+    },
+    {
+      "id": "hq_Indonesia_at_the_Asian_Games_36",
+      "title": "Indonesia at the Asian Games (table)",
+      "extracted_text_characters": 856,
+      "extracted_text_sha256": "168ea8c1ca966f53215bf5c50de764ba76adb23a74846c7cfee0287e0c3365ba"
+    },
+    {
+      "id": "hq_Baby_of_the_House_2_pages",
+      "title": "Baby of the House (linked pages)",
+      "extracted_text_characters": 16619,
+      "extracted_text_sha256": "001f8db765383d75e718e4d920114ed14e64d59833677b7fcfe3be537a5bd649"
+    },
+    {
+      "id": "hq_WD_postcode_area_0_pages",
+      "title": "WD postcode area (linked pages)",
+      "extracted_text_characters": 26683,
+      "extracted_text_sha256": "c541e72c3e5dc9080b6301787507e8075583073b242bc7d17d93648a099ac245"
+    },
+    {
+      "id": "hq_List_of_tallest_dams_in_the_world_0",
+      "title": "List of tallest dams in the world (table)",
+      "extracted_text_characters": 1606,
+      "extracted_text_sha256": "64a1aaea2af57a37136f1d08645b907eee8b9f924c8635e13a0ddccea2dc8a32"
+    },
+    {
+      "id": "hq_List_of_cricket_grounds_in_India_30",
+      "title": "List of cricket grounds in India (table)",
+      "extracted_text_characters": 1557,
+      "extracted_text_sha256": "97f891dda14fc31cde9aa814ef1153cf360adf3e0e33ef0d634b9688ca83155d"
+    },
+    {
+      "id": "hq_List_of_Washington_Redskins_players_4",
+      "title": "List of Washington Redskins players (table)",
+      "extracted_text_characters": 855,
+      "extracted_text_sha256": "4426c73b1d89c23121767fce48fd3f0625ed20c217e7f36d081ef18fb076b356"
+    },
+    {
+      "id": "hq_Country_Senior_High_Schools_Carnival_(Western_Australia)_1",
+      "title": "Country Senior High Schools Carnival (Western Australia) (table)",
+      "extracted_text_characters": 1420,
+      "extracted_text_sha256": "9a873de0846c9229fece19e8df72b634f87178c99d04843531760a310974f521"
+    },
+    {
+      "id": "hq_List_of_fictional_universes_in_animation_and_comics_1",
+      "title": "List of fictional universes in animation and comics (table)",
+      "extracted_text_characters": 4397,
+      "extracted_text_sha256": "57f8c9f52b65c91cfead3d20f048907ce8c6da250c64ab7c1e2086261e25a717"
+    },
+    {
+      "id": "hq_1993_Major_League_Baseball_Draft_1",
+      "title": "1993 Major League Baseball Draft (table)",
+      "extracted_text_characters": 950,
+      "extracted_text_sha256": "652cb06b73233db129c84141d9b6ec209f3f3ffdcd1030a314d6c5be2c82feda"
+    },
+    {
+      "id": "hq_List_of_Games_for_Windows_titles_4",
+      "title": "List of Games for Windows titles (table)",
+      "extracted_text_characters": 1492,
+      "extracted_text_sha256": "21bd680a546a933b6b041d82a58bf0e505991619ac0025c74457cd627959c7f6"
+    },
+    {
+      "id": "hq_SJPF_Segunda_Liga_Player_of_the_Month_0",
+      "title": "SJPF Segunda Liga Player of the Month (table)",
+      "extracted_text_characters": 1159,
+      "extracted_text_sha256": "dd266a04378a3958d0210a0b81091405020d96b3bb889de6057b14f35e92e94f"
+    },
+    {
+      "id": "hq_Deloitte_Football_Money_League_2",
+      "title": "Deloitte Football Money League (table)",
+      "extracted_text_characters": 748,
+      "extracted_text_sha256": "db1fd06a0bc206417d792ce8b6adad36e30dc920ef435a18c831ec841eca268d"
+    },
+    {
+      "id": "hq_Sports_in_Israel_0_pages",
+      "title": "Sports in Israel (linked pages)",
+      "extracted_text_characters": 23716,
+      "extracted_text_sha256": "07ed10a1ca88c14173df540a9235a871d79c8d81157dc523a7b5606a52b6e241"
+    },
+    {
+      "id": "hq_Index_of_Windows_games_(Z)_0",
+      "title": "Index of Windows games (Z) (table)",
+      "extracted_text_characters": 1177,
+      "extracted_text_sha256": "43272b40b889cb70cec3b9579be97003aaa70b19e495ffdf2f66008d7324c5ec"
+    },
+    {
+      "id": "hq_Discus_throw_2_pages",
+      "title": "Discus throw (linked pages)",
+      "extracted_text_characters": 26538,
+      "extracted_text_sha256": "b8793a5aebbfa4f2b038f7460b22af8d2b54d4462f206a68564f651b1ff02071"
+    }
+  ]
+}

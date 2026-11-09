@@ -1,0 +1,58 @@
+[
+  {
+    "dataset": "arvenne",
+    "system": "classic-rag",
+    "questions": 150,
+    "fully_correct": 67,
+    "accuracy_within_two_attempts_pct": 44.6667
+  },
+  {
+    "dataset": "arvenne",
+    "system": "lookio-v2",
+    "questions": 150,
+    "fully_correct": 132,
+    "accuracy_within_two_attempts_pct": 88.0
+  },
+  {
+    "dataset": "databench",
+    "system": "classic-rag",
+    "questions": 150,
+    "fully_correct": 37,
+    "accuracy_within_two_attempts_pct": 24.6667
+  },
+  {
+    "dataset": "databench",
+    "system": "lookio-v2",
+    "questions": 150,
+    "fully_correct": 133,
+    "accuracy_within_two_attempts_pct": 88.6667
+  },
+  {
+    "dataset": "hybridqa",
+    "system": "classic-rag",
+    "questions": 150,
+    "fully_correct": 28,
+    "accuracy_within_two_attempts_pct": 18.6667
+  },
+  {
+    "dataset": "hybridqa",
+    "system": "lookio-v2",
+    "questions": 150,
+    "fully_correct": 106,
+    "accuracy_within_two_attempts_pct": 70.6667
+  },
+  {
+    "dataset": "all",
+    "system": "classic-rag",
+    "questions": 450,
+    "fully_correct": 132,
+    "accuracy_within_two_attempts_pct": 29.3333
+  },
+  {
+    "dataset": "all",
+    "system": "lookio-v2",
+    "questions": 450,
+    "fully_correct": 371,
+    "accuracy_within_two_attempts_pct": 82.4444
+  }
+]

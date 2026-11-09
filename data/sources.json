@@ -1,0 +1,27 @@
+{
+  "arvenne": {
+    "name": "Arvenne RAG Bench",
+    "url": "https://github.com/DuvInc/arvenne-rag-bench",
+    "questions": 150,
+    "license": "MIT, except included font licenses",
+    "relationship": "Created by the same author as Lookio, not an independent benchmark"
+  },
+  "databench": {
+    "name": "DataBench",
+    "url": "https://huggingface.co/datasets/cardiffnlp/databench",
+    "revision": "e75d53add267d2f9cfa32efd65ad77f0807adfad",
+    "questions": 150,
+    "license": "MIT declared by the upstream dataset card; individual source-table rights are separate",
+    "note": "Questions are prefixed with their table name. References follow the frozen evaluation file. Source tables are not redistributed."
+  },
+  "hybridqa": {
+    "name": "HybridQA",
+    "url": "https://github.com/wenhuchen/HybridQA",
+    "sample_source": "https://github.com/yxh-y/TableRAG",
+    "sample_file": "my_dev.json, Google Drive folder linked from TableRAG, 2025-06-13",
+    "upstream_questions": "https://github.com/wenhuchen/HybridQA/blob/master/released_data/dev.json",
+    "questions": 150,
+    "license": "MIT for upstream questions; Wikipedia corpus has separate attribution/share-alike terms",
+    "note": "The 305-question downloaded sample matches official HybridQA dev questions and answers by question_id. This release publishes only the 150 evaluated questions and references, not Wikipedia text or TableRAG code."
+  }
+}

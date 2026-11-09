@@ -1,0 +1,21 @@
+You are grading an answer produced by a question-answering system over a company's documents.
+
+Question:
+{question}
+
+Reference answer:
+{reference}
+
+Facts the answer must contain (rubric):
+{rubric}
+
+Question type: {answer_type}
+- "contradiction": the answer must report both conflicting values and say the sources disagree.
+- "unanswerable": the answer must say the information is not in the documents or reject the false premise.
+
+Candidate answer:
+{answer}
+
+Judge facts, not wording. Extra true details are fine. A false detail that changes the meaning makes the answer wrong.
+You do not have the documents the system read: never doubt a detail of the candidate from your own knowledge. Compare the candidate's final answer with the reference only. An answer that commits to the reference's fact is correct, even with extra details or a short caveat; one that only offers it as one possibility among others, or refuses to conclude, is partial.
+Return JSON only: {"reasoning": "<one or two sentences>", "verdict": "correct" | "partial" | "wrong"}
